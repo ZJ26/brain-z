@@ -52,4 +52,4 @@ Você não é seus pensamentos nem suas emoções: você é a consciência que o
 - Ecoa a [[Bhagavad_Gita_Vyasa|Bhagavad Gita]] na ideia da testemunha imutável por trás da ação e das flutuações da mente.
 - Complementa [[O Poder do Agora]] de Eckhart Tolle sobre desidentificar-se dos pensamentos e viver no presente.
 - Dialoga com [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio sobre aceitar o que não se controla e distinguir o eu dos eventos externos.
-- Complementa [[A Coragem de Ser Imperfeito]] de Brené Brown sobre baixar as defesas e permanecer vulnerável em vez de se blindar.
+- Complementa [[A_Coragem_de_Ser_Imperfeito_Brown|A Coragem de Ser Imperfeito]] de Brené Brown sobre baixar as defesas e permanecer vulnerável em vez de se blindar.

@@ -51,6 +51,6 @@ Negociação não é um duelo racional de argumentos, é um processo emocional e
 ## Conexões
 - [[Negociacao e Influencia]] (índice temático que reúne os livros sobre o tema)
 - Diverge de [[Como Chegar ao Sim]] de Fisher e Ury: onde Harvard defende separar pessoas do problema e focar em interesses racionais, Voss argumenta que a emoção é o problema e o caminho.
-- Complementa [[As Armas da Persuasão]] de Robert Cialdini, que mapeia os gatilhos de influência que sustentam muitas das táticas de Voss.
+- Complementa [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini, que mapeia os gatilhos de influência que sustentam muitas das táticas de Voss.
 - Dialoga com [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman: as âncoras, o enquadramento e a aversão à perda que Voss usa na prática são os vieses que Kahneman descreve na teoria.
 - Complementa [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg sobre nomear emoções e escutar, ainda que com objetivos diferentes (acordo estratégico versus conexão empática).
