@@ -48,7 +48,7 @@ Estatística é a arte de aprender com os dados, e não apenas um conjunto de f�
 
 ## Conexões
 - [[Pensamento Estatistico]] (índice temático que reúne os livros sobre raciocínio com dados)
-- Complementa [[Rápido e Devagar]] de Daniel Kahneman, que explica por que a intuição humana falha justamente nos pontos (probabilidade, regressão à média) que a estatística corrige.
+- Complementa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman, que explica por que a intuição humana falha justamente nos pontos (probabilidade, regressão à média) que a estatística corrige.
 - Dialoga com [[Como Mentir com Estatística]] de Darrell Huff: onde Huff foca nas armadilhas e enganos, Spiegelhalter foca no uso honesto e construtivo dos mesmos princípios.
 - Complementa [[O Andar do Bêbado]] de Leonard Mlodinow sobre o papel do acaso e da aleatoriedade na leitura de resultados.
 - Diverge em ênfase de manuais de estatística tradicionais, que partem da fórmula: aqui o ponto de partida é o problema e a comunicação, com a matemática a serviço disso.

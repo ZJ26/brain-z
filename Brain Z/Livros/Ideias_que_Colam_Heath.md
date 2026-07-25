@@ -47,7 +47,7 @@ Algumas ideias grudam na memória e se espalham, enquanto outras desaparecem. Is
 
 ## Conexões
 - [[Ideias e Comunicacao]] (índice temático que reúne os livros sobre transmitir mensagens)
-- Complementa [[TED: Falar, Convencer, Emocionar]] de Carmine Gallo sobre o que torna uma apresentação memorável.
-- Dialoga com [[A Vaca Roxa]] de Seth Godin: uma é sobre a ideia ser digna de comentário, a outra sobre a mensagem grudar e se espalhar.
-- Complementa [[Contágio]] de Jonah Berger, que investiga por que certas ideias e produtos viralizam.
-- Ecoa [[Rápido e Devagar]] de Daniel Kahneman no efeito da "uma pessoa" (a estatística que não comove tanto quanto o indivíduo).
+- Complementa [[TED_Falar_Convencer_Emocionar_Gallo|TED: Falar, Convencer, Emocionar]] de Carmine Gallo sobre o que torna uma apresentação memorável.
+- Dialoga com [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin: uma é sobre a ideia ser digna de comentário, a outra sobre a mensagem grudar e se espalhar.
+- Complementa [[Contagio_Berger|Contágio]] de Jonah Berger, que investiga por que certas ideias e produtos viralizam.
+- Ecoa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman no efeito da "uma pessoa" (a estatística que não comove tanto quanto o indivíduo).

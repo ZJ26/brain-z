@@ -52,6 +52,6 @@ As pessoas são movidas por emoção, vaidade e pelo desejo de se sentirem impor
 ## Conexões
 - [[Relacionamentos e Influencia]] (índice temático que reúne os livros sobre lidar com pessoas)
 - Base clássica de [[As Armas da Persuasão]] de Robert Cialdini, que dá fundamento científico a muitos dos princípios intuitivos de Carnegie.
-- Dialoga com [[Comunicação Não Violenta]] de Marshall Rosenberg: ambos valorizam empatia e escuta, mas Carnegie foca em influenciar e Rosenberg em conectar sem manipular.
-- Complementa [[Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss no uso da empatia e da escuta para levar o outro à sua posição.
-- Contraponto a [[A Arte de Ter Razão]] de Schopenhauer: onde Schopenhauer ensina a vencer a discussão, Carnegie ensina justamente a evitá-la.
+- Dialoga com [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg: ambos valorizam empatia e escuta, mas Carnegie foca em influenciar e Rosenberg em conectar sem manipular.
+- Complementa [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss no uso da empatia e da escuta para levar o outro à sua posição.
+- Contraponto a [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer: onde Schopenhauer ensina a vencer a discussão, Carnegie ensina justamente a evitá-la.

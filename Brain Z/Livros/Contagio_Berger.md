@@ -47,7 +47,7 @@ O que faz uma ideia, um produto ou um comportamento se espalhar não é sorte, p
 
 ## Conexões
 - [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
-- Complementa [[Ideias que Colam]] de Chip e Dan Heath: uma foca em fazer a ideia grudar na memória, a outra em fazê-la se espalhar entre pessoas.
-- Dialoga com [[A Vaca Roxa]] de Seth Godin sobre ser notável o bastante para gerar boca a boca.
+- Complementa [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath: uma foca em fazer a ideia grudar na memória, a outra em fazê-la se espalhar entre pessoas.
+- Dialoga com [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin sobre ser notável o bastante para gerar boca a boca.
 - Complementa [[O Ponto da Virada]] de Malcolm Gladwell sobre como ideias atingem massa crítica e viram epidemia social.
-- Ecoa [[Rápido e Devagar]] de Daniel Kahneman no papel da emoção e dos gatilhos sobre o comportamento automático.
+- Ecoa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman no papel da emoção e dos gatilhos sobre o comportamento automático.

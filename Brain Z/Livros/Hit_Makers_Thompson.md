@@ -46,7 +46,7 @@ O sucesso de um produto cultural não é só qualidade nem pura sorte: é a comb
 
 ## Conexões
 - [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
-- Complementa [[Contágio]] de Jonah Berger, mas diverge no ponto central: Berger enfatiza o boca a boca pessoa a pessoa, enquanto Thompson mostra que os grandes hits vêm sobretudo de transmissões em massa.
+- Complementa [[Contagio_Berger|Contágio]] de Jonah Berger, mas diverge no ponto central: Berger enfatiza o boca a boca pessoa a pessoa, enquanto Thompson mostra que os grandes hits vêm sobretudo de transmissões em massa.
 - Contrapõe [[O Ponto da Virada]] de Malcolm Gladwell, questionando o peso dos poucos "conectores" na propagação viral.
-- Dialoga com [[A Vaca Roxa]] de Seth Godin: ser notável ajuda, mas Thompson lembra que sem distribuição e exposição o notável não decola.
-- Ecoa [[Rápido e Devagar]] de Daniel Kahneman na fluência cognitiva: o que é fácil de processar (familiar) parece melhor e mais verdadeiro.
+- Dialoga com [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin: ser notável ajuda, mas Thompson lembra que sem distribuição e exposição o notável não decola.
+- Ecoa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman na fluência cognitiva: o que é fácil de processar (familiar) parece melhor e mais verdadeiro.

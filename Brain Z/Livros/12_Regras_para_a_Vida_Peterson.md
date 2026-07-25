@@ -51,7 +51,7 @@ A vida é sofrimento, e a resposta a ele não é a busca da felicidade nem a fug
 
 ## Conexões
 - [[Sentido e Responsabilidade]] (índice temático que reúne os livros sobre propósito e caráter)
-- Complementa [[Em Busca de Sentido]] de Viktor Frankl sobre o sentido como resposta ao sofrimento inevitável.
-- Dialoga com [[Disciplina é Liberdade]] de Jocko Willink sobre assumir responsabilidade e impor ordem à própria vida.
-- Ecoa a [[Bhagavad Gita]] e [[Meditações]] de Marco Aurélio no dever, na ação correta e na aceitação da tragédia da existência.
+- Complementa [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl sobre o sentido como resposta ao sofrimento inevitável.
+- Dialoga com [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre assumir responsabilidade e impor ordem à própria vida.
+- Ecoa a [[Bhagavad_Gita_Vyasa|Bhagavad Gita]] e [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio no dever, na ação correta e na aceitação da tragédia da existência.
 - Diverge de abordagens da felicidade que buscam o conforto e o prazer imediato, que Peterson considera um caminho vazio.

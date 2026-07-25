@@ -48,7 +48,7 @@ A vida não é curta: nós a tornamos curta ao desperdiçá-la. O tempo que rece
 
 ## Conexões
 - [[Estoicismo]] (índice temático que reúne os livros da tradição estoica)
-- Complementa [[Meditações]] de Marco Aurélio sobre a finitude, o presente e o autodomínio.
-- Dialoga com [[A Alma Indomável]] de Michael A. Singer sobre viver o presente e não se perder na mente.
+- Complementa [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio sobre a finitude, o presente e o autodomínio.
+- Dialoga com [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer sobre viver o presente e não se perder na mente.
 - Ecoa na prática moderna de [[Quatro Mil Semanas]] de Oliver Burkeman, que retoma a ideia da finitude do tempo para a vida contemporânea.
-- Contraponto filosófico à cultura da ocupação constante e da procrastinação tratada em livros de produtividade como [[Foco: O Poder da Única Coisa]] de Vinícius Almeida.
+- Contraponto filosófico à cultura da ocupação constante e da procrastinação tratada em livros de produtividade como [[Foco_O_Poder_da_Unica_Coisa_Almeida|Foco: O Poder da Única Coisa]] de Vinícius Almeida.

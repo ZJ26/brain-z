@@ -49,7 +49,7 @@ Você não é seus pensamentos nem suas emoções: você é a consciência que o
 
 ## Conexões
 - [[Espiritualidade e Consciencia]] (índice temático que reúne os livros sobre autoconhecimento interior)
-- Ecoa a [[Bhagavad Gita]] na ideia da testemunha imutável por trás da ação e das flutuações da mente.
+- Ecoa a [[Bhagavad_Gita_Vyasa|Bhagavad Gita]] na ideia da testemunha imutável por trás da ação e das flutuações da mente.
 - Complementa [[O Poder do Agora]] de Eckhart Tolle sobre desidentificar-se dos pensamentos e viver no presente.
-- Dialoga com [[Meditações]] de Marco Aurélio sobre aceitar o que não se controla e distinguir o eu dos eventos externos.
+- Dialoga com [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio sobre aceitar o que não se controla e distinguir o eu dos eventos externos.
 - Complementa [[A Coragem de Ser Imperfeito]] de Brené Brown sobre baixar as defesas e permanecer vulnerável em vez de se blindar.

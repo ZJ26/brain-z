@@ -51,7 +51,7 @@ Liderar bem é uma questão de equilíbrio entre forças opostas. Todo princípi
 
 ## Conexões
 - [[Lideranca]] (índice temático que reúne os livros sobre liderar times)
-- Continuação direta de [[Responsabilidade Extrema]] (Extreme Ownership) dos mesmos autores, que estabelece a base sobre a qual as dicotomias operam.
-- Complementa [[Disciplina é Liberdade]] do próprio Jocko Willink, levando a mentalidade individual de disciplina para o plano da liderança de equipes.
+- Continuação direta de [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] (Extreme Ownership) dos mesmos autores, que estabelece a base sobre a qual as dicotomias operam.
+- Complementa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] do próprio Jocko Willink, levando a mentalidade individual de disciplina para o plano da liderança de equipes.
 - Dialoga com [[Os Líderes Comem por Último]] de Simon Sinek sobre o equilíbrio entre cuidar das pessoas e cobrar resultados.
 - Complementa [[Reinventando as Organizações]] de Frederic Laloux no debate entre autonomia descentralizada e responsabilidade central.

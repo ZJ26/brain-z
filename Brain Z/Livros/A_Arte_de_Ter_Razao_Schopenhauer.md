@@ -50,5 +50,5 @@ Ter razão e parecer ter razão são coisas diferentes. Schopenhauer separa a l�
 - [[Retorica e Argumentacao]] (índice temático que reúne os livros sobre debate e persuasão)
 - Contraponto ético a [[Retórica]] de Aristóteles, que trata da persuasão legítima, enquanto Schopenhauer expõe a persuasão desonesta.
 - Complementa [[As Armas da Persuasão]] de Robert Cialdini, que mapeia os gatilhos psicológicos por trás de muitas dessas manobras.
-- Dialoga com [[Rápido e Devagar]] de Daniel Kahneman: vários estratagemas exploram justamente os vieses do pensamento rápido e a preguiça do raciocínio deliberado.
-- Complementa [[Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss por outra via: onde Voss busca acordo pela empatia, Schopenhauer expõe a discussão como disputa a ser vencida.
+- Dialoga com [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman: vários estratagemas exploram justamente os vieses do pensamento rápido e a preguiça do raciocínio deliberado.
+- Complementa [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss por outra via: onde Voss busca acordo pela empatia, Schopenhauer expõe a discussão como disputa a ser vencida.

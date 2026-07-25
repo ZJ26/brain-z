@@ -50,6 +50,6 @@ A mente humana opera por dois sistemas: um rápido, automático e intuitivo, e o
 ## Conexões
 - [[Vieses Cognitivos]] (índice temático que reúne os livros sobre erros de julgamento)
 - Base para [[Nudge]] de Thaler e Sunstein, que aplica esses vieses ao desenho de escolhas e políticas.
-- Complementa [[A Arte da Estatística]] de David Spiegelhalter, que corrige com método os mesmos erros de intuição (probabilidade, reversão à média) que Kahneman diagnostica.
+- Complementa [[A_Arte_da_Estatistica_Spiegelhalter|A Arte da Estatística]] de David Spiegelhalter, que corrige com método os mesmos erros de intuição (probabilidade, reversão à média) que Kahneman diagnostica.
 - Dialoga com [[Previsivelmente Irracional]] de Dan Ariely sobre os padrões sistemáticos do comportamento humano, por uma via mais experimental.
 - Diverge em parte de [[Rápido e Intuitivo]] (Gut Feelings) de Gerd Gigerenzer, que defende que a intuição e as heurísticas costumam acertar mais do que Kahneman sugere.

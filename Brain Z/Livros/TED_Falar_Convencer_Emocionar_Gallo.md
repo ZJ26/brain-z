@@ -51,6 +51,6 @@ As melhores apresentações do mundo seguem padrões identificáveis. Analisando
 ## Conexões
 - [[Oratoria e Apresentacao]] (índice temático que reúne os livros sobre falar em público)
 - Complementa [[Storytelling]] de outros autores e a ideia de que narrativas movem pessoas mais que argumentos.
-- Dialoga com [[Feito para Colar]] de Chip e Dan Heath sobre o que torna uma ideia memorável e transmissível.
+- Dialoga com [[Ideias_que_Colam_Heath|Feito para Colar]] de Chip e Dan Heath sobre o que torna uma ideia memorável e transmissível.
 - Complementa [[TED Talks]] de Chris Anderson, o guia oficial do TED, com uma visão mais analítica dos padrões das melhores palestras.
-- Ecoa [[A Vaca Roxa]] de Seth Godin na ideia de que ser notável e digno de comentário vale mais que ser apenas correto.
+- Ecoa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin na ideia de que ser notável e digno de comentário vale mais que ser apenas correto.

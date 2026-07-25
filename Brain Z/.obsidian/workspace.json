@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1dcbcbbb39002f7d",
+        "id": "2754a70984f5d8b5",
         "type": "tabs",
         "children": [
           {
-            "id": "367ebe0272dab2e8",
+            "id": "6310d31c6eb7415a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Livros/Em_Busca_de_Sentido_Frankl.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Em_Busca_de_Sentido_Frankl"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Responsabilidade Extrema\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,33 +180,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "367ebe0272dab2e8",
+  "active": "6310d31c6eb7415a",
   "lastOpenFiles": [
-    "Livros/Hit_Makers_Thompson.md",
-    "Livros/Meditacoes_Marco_Aurelio.md",
-    "Livros/A_Arte_de_Viver_Epicteto.md",
-    "Livros/Sobre_a_Brevidade_da_Vida_Seneca.md",
-    "Livros/Disciplina_e_Liberdade_Willink.md",
-    "A Vaca Roxa.md",
-    "Livros/Contagio_Berger.md",
-    "Livros/Ideias_que_Colam_Heath.md",
-    "Livros/Foco_O_Poder_da_Unica_Coisa_Almeida.md",
-    "Livros/Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie.md",
-    "Livros/12_Regras_para_a_Vida_Peterson.md",
+    "Livros/Flow_Csikszentmihalyi.md",
+    "Livros/A_Trinca_Jornada_da_Liberdade_Carneiro.md",
+    "Livros/O_Jeito_Harvard_de_Ser_Feliz_Achor.md",
+    "Livros/A_Trinca_Jornada_da_Liberdade_Carneiro.md.tmp.8004.4597ffbb7d5e",
+    "Livros/O_Jeito_Harvard_de_Ser_Feliz_Achor.md.tmp.8004.0b328aeb4b7b",
+    "Livros/Em_Busca_de_Sentido_Frankl.md",
+    "Livros/Em_Busca_de_Sentido_Frankl.md.tmp.8004.0d618f76d174",
+    "Livros/Como_se_Tornar_Sobrenatural_Dispenza.md",
+    "Livros/Copywriting_Macedo.md",
+    "Livros/Copywriting_Macedo.md.tmp.13388.e65e18336852",
+    "Livros/A_Arte_de_Pensar_Claramente_Dobelli.md",
+    "Livros/A_Arte_de_Escrever_para_a_Web_Macedo.md",
+    "Livros/Palavras_que_Vendem_Milhoes_Ferreira.md",
+    "Livros/Palavras_que_Vendem_Milhoes_Ferreira.md.tmp.2784.0f76fdea9701",
+    "Livros/Nao_Me_Faca_Dormir_Oliveira.md",
+    "Livros/Gatilhos_Mentais_Ferreira.md",
+    "Livros/Apaixone_se_pelo_Problema_Levine.md",
+    "Livros/Hacking_Growth_Ellis.md",
+    "Livros/Organizacoes_Exponenciais_Ismail.md",
+    "Livros/Hacking_Growth_Ellis.md.tmp.3444.b59eb3233d10",
+    "Livros/Tudo_o_que_Voce_Precisa_Saber_sobre_Gestao_Soundering.md",
+    "Livros/33_Estrategias_de_Guerra_Greene.md",
+    "Livros/O_Dom_da_Influencia_Spaulding.md",
+    "Livros/7_Regras_do_Poder_Pfeffer.md",
+    "Livros/7_Regras_do_Poder_Pfeffer.md.tmp.5428.fdd7a2136d24",
+    "Livros/Bhagavad_Gita_Vyasa.md",
     "Livros/TED_Falar_Convencer_Emocionar_Gallo.md",
-    "Livros/Comunicacao_Nao_Violenta_Rosenberg.md",
-    "Livros/A_Arte_de_Ter_Razao_Schopenhauer.md",
-    "Livros/Projeto_Proposito_Farias.md",
-    "Projeto_Proposito_Farias.md",
+    "Livros/Sobre_a_Brevidade_da_Vida_Seneca.md",
     "Livros/Responsabilidade_Extrema_Willink.md",
     "Livros/Rapido_e_Devagar_Kahneman.md",
+    "Livros/Projeto_Proposito_Farias.md",
     "Livros/O_Heroi_e_o_Fora_da_Lei_Mark.md",
     "Livros/Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss.md",
-    "Livros/A_Vaca_Roxa_Godin.md",
-    "Livros/A_Dicotomia_da_Lideranca_Willink.md",
-    "Livros/A_Arte_da_Estatistica_Spiegelhalter.md",
-    "Livros/A_Alma_Indomavel_Singer.md",
-    "Livros",
-    "Welcome.md"
+    "Livros"
   ]
 }

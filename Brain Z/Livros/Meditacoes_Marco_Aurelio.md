@@ -50,7 +50,7 @@ Escrito por um imperador romano como um diário particular de lembretes a si mes
 
 ## Conexões
 - [[Estoicismo]] (índice temático que reúne os livros da tradição estoica)
-- Aplica na prática a filosofia de [[A Arte de Viver]] de Epicteto, mestre que influenciou diretamente Marco Aurélio.
-- Complementa [[Sobre a Brevidade da Vida]] de Sêneca, o terceiro grande estoico, sobre o uso sábio do tempo.
-- Dialoga com [[A Alma Indomável]] de Michael A. Singer sobre a cidadela interior e o não se identificar com o externo.
-- Ecoa em [[12 Regras para a Vida]] de Jordan Peterson, que retoma o dever, a ordem e a aceitação da tragédia da existência.
+- Aplica na prática a filosofia de [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto, mestre que influenciou diretamente Marco Aurélio.
+- Complementa [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca, o terceiro grande estoico, sobre o uso sábio do tempo.
+- Dialoga com [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer sobre a cidadela interior e o não se identificar com o externo.
+- Ecoa em [[12_Regras_para_a_Vida_Peterson|12 Regras para a Vida]] de Jordan Peterson, que retoma o dever, a ordem e a aceitação da tragédia da existência.

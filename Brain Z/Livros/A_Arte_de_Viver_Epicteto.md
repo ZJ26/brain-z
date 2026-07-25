@@ -50,7 +50,7 @@ A serenidade e a liberdade não vêm de controlar o mundo, e sim de distinguir c
 
 ## Conexões
 - [[Estoicismo]] (índice temático que reúne os livros da tradição estoica)
-- Complementa [[Meditações]] de Marco Aurélio, discípulo da mesma escola, sobre autodomínio e aceitação.
-- Dialoga com [[Sobre a Brevidade da Vida]] de Sêneca, o terceiro grande estoico, sobre o uso sábio do tempo e da vida.
-- Ecoa [[A Alma Indomável]] de Michael A. Singer na ideia de não se identificar com pensamentos, emoções e circunstâncias externas.
+- Complementa [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio, discípulo da mesma escola, sobre autodomínio e aceitação.
+- Dialoga com [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca, o terceiro grande estoico, sobre o uso sábio do tempo e da vida.
+- Ecoa [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer na ideia de não se identificar com pensamentos, emoções e circunstâncias externas.
 - Fundamenta a dicotomia do controle que reaparece, de forma laica, em livros modernos de resiliência e desenvolvimento pessoal.

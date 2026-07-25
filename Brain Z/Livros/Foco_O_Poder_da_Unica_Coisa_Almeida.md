@@ -49,5 +49,5 @@ Foco é uma habilidade que pode ser treinada e afiada, não um dom nem uma quest
 - [[Foco e Produtividade]] (índice temático que reúne os livros sobre atenção e prioridades)
 - Dialoga com [[A Única Coisa]] (The ONE Thing) de Gary Keller, do mesmo campo, sobre concentrar energia na tarefa mais importante de cada vez.
 - Complementa [[Hábitos Atômicos]] de James Clear na ideia de que resultados vêm de hábitos e sistemas, não de força de vontade.
-- Ecoa [[Disciplina é Liberdade]] de Jocko Willink sobre estruturar a rotina para conquistar liberdade e resultados.
+- Ecoa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre estruturar a rotina para conquistar liberdade e resultados.
 - Dialoga com [[Trabalho Focado]] (Deep Work) de Cal Newport sobre proteger a atenção das distrações para produzir com profundidade.
