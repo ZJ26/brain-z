@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3d801437631715a",
+        "id": "1dcbcbbb39002f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "78e743fb7421f36a",
+            "id": "367ebe0272dab2e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livros/Responsabilidade_Extrema_Willink.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Responsabilidade_Extrema_Willink"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Responsabilidade Extrema\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livros/Responsabilidade_Extrema_Willink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Responsabilidade_Extrema_Willink"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livros/Responsabilidade_Extrema_Willink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Responsabilidade_Extrema_Willink"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livros/Responsabilidade_Extrema_Willink.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Responsabilidade_Extrema_Willink"
+              "title": "Outline"
             }
           }
         ]
@@ -183,17 +177,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "78e743fb7421f36a",
+  "active": "367ebe0272dab2e8",
   "lastOpenFiles": [
+    "Livros/Hit_Makers_Thompson.md",
+    "Livros/Meditacoes_Marco_Aurelio.md",
+    "Livros/A_Arte_de_Viver_Epicteto.md",
+    "Livros/Sobre_a_Brevidade_da_Vida_Seneca.md",
+    "Livros/Disciplina_e_Liberdade_Willink.md",
+    "A Vaca Roxa.md",
+    "Livros/Contagio_Berger.md",
+    "Livros/Ideias_que_Colam_Heath.md",
+    "Livros/Foco_O_Poder_da_Unica_Coisa_Almeida.md",
+    "Livros/Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie.md",
+    "Livros/12_Regras_para_a_Vida_Peterson.md",
+    "Livros/TED_Falar_Convencer_Emocionar_Gallo.md",
+    "Livros/Comunicacao_Nao_Violenta_Rosenberg.md",
+    "Livros/A_Arte_de_Ter_Razao_Schopenhauer.md",
+    "Livros/Projeto_Proposito_Farias.md",
+    "Projeto_Proposito_Farias.md",
+    "Livros/Responsabilidade_Extrema_Willink.md",
     "Livros/Rapido_e_Devagar_Kahneman.md",
     "Livros/O_Heroi_e_o_Fora_da_Lei_Mark.md",
     "Livros/Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss.md",
-    "Livros/Disciplina_e_Liberdade_Willink.md",
     "Livros/A_Vaca_Roxa_Godin.md",
     "Livros/A_Dicotomia_da_Lideranca_Willink.md",
     "Livros/A_Arte_da_Estatistica_Spiegelhalter.md",
     "Livros/A_Alma_Indomavel_Singer.md",
-    "Livros/Responsabilidade_Extrema_Willink.md",
     "Livros",
     "Welcome.md"
   ]
