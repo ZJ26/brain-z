@@ -48,6 +48,6 @@ Pessoas comuns são capazes de feitos extraordinários quando encontram um prop�
 ## Conexões
 - [[Proposito e Superacao]] (índice temático que reúne relatos e livros sobre propósito)
 - Complementa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre a consistência diária e a ação apesar da falta de vontade.
-- Ecoa [[Nada Pode Me Ferir]] de David Goggins como relato real de superação física e mental levada ao extremo.
+- Ecoa [[Nada_Pode_Me_Ferir_Goggins|Nada Pode Me Ferir]] de David Goggins como relato real de superação física e mental levada ao extremo.
 - Dialoga com [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl sobre o propósito como força que sustenta o ser humano diante do sofrimento.
 - Complementa [[O Poder do Hábito]] de Charles Duhigg sobre como a rotina e a repetição constroem grandes resultados.

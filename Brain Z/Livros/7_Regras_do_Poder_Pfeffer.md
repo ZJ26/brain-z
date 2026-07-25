@@ -1,12 +1,18 @@
 ---
-titulo: "7 Regras do Poder"
-autor: "Jeffrey Pfeffer"
+titulo: 7 Regras do Poder
+autor: Jeffrey Pfeffer
 ano: 2022
 categoria: poder
-tags: [poder, influencia, carreira, politica-organizacional, networking, lideranca]
+tags:
+  - poder
+  - influencia
+  - carreira
+  - politica-organizacional
+  - networking
+  - lideranca
 status: nao-lido
 avaliacao: 0
-data-leitura: 
+data-leitura:
 confianca: alta
 ---
 
