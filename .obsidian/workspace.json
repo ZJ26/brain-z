@@ -72,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "75e01cf5d294dcc6",
+  "active": "297500841c86941e",
   "lastOpenFiles": [
     "Livros/Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss.md",
     "Livros/O_Dom_da_Influencia_Spaulding.md",
