@@ -2,7 +2,7 @@
 titulo: "O Marketing e a Arte do Luxo na Era da Experiência"
 autor: "Rosana de Moraes"
 ano: 2019
-categoria: marketing
+categoria: marketing-e-marca
 tags: [luxo, marketing, experiencia, marca, premium, exclusividade]
 status: nao-lido
 avaliacao: 0
@@ -46,8 +46,8 @@ O luxo não se vende por preço nem por função, mas por significado, experiên
 - Quando a diferenciação depende de percepção e desejo.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Dialoga com [[O_Paladar_Nao_Retrocede_Ferreirinha|O Paladar Não Retrocede]] de Carlos Ferreirinha sobre o mercado premium e de luxo.
 - Complementa [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark sobre marca como significado e arquétipo.
 - Ecoa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin sobre diferenciação notável.
 - Dialoga com [[Guiados_pelo_Encantamento_Michelli|Guiados pelo Encantamento]] de Joseph Michelli sobre experiência do cliente como diferencial.
+- Dialoga com [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre o desejo e a emoção que movem a compra de luxo.

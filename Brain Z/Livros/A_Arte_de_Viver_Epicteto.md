@@ -2,7 +2,7 @@
 titulo: "A Arte de Viver"
 autor: "Epicteto"
 ano: 125
-categoria: filosofia
+categoria: filosofia-e-espiritualidade
 tags: [estoicismo, filosofia, autocontrole, aceitacao, sabedoria, virtude]
 status: nao-lido
 avaliacao: 0
@@ -49,8 +49,8 @@ A serenidade e a liberdade não vêm de controlar o mundo, e sim de distinguir c
 - Para reencontrar foco no que realmente está sob sua responsabilidade.
 
 ## Conexões
-- [[Estoicismo]] (índice temático que reúne os livros da tradição estoica)
 - Complementa [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio, discípulo da mesma escola, sobre autodomínio e aceitação.
 - Dialoga com [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca, o terceiro grande estoico, sobre o uso sábio do tempo e da vida.
 - Ecoa [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer na ideia de não se identificar com pensamentos, emoções e circunstâncias externas.
 - Fundamenta a dicotomia do controle que reaparece, de forma laica, em livros modernos de resiliência e desenvolvimento pessoal.
+- Ecoa em [[O_Ego_E_Seu_Inimigo_Holiday|O Ego É Seu Inimigo]] de Ryan Holiday e [[O_Vendedor_Estoico_Brito|O Vendedor Estoico]] de Mamá Brito, aplicações modernas do estoicismo.

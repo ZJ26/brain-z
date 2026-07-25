@@ -43,7 +43,6 @@ O maior obstáculo ao sucesso, à aprendizagem e à realização não são os ou
 - Como leitura de inspiração estoica sobre caráter e autocontrole.
 
 ## Conexões
-- [[Estoicismo]] (índice temático que reúne os livros da tradição estoica e seus herdeiros)
 - Aplica de forma moderna a filosofia de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio e [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto sobre humildade e domínio de si.
 - Dialoga com [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] de Jocko Willink sobre assumir a culpa em vez de proteger o ego.
 - Contraponto a [[As_48_Leis_do_Poder_Greene|As 48 Leis do Poder]] de Robert Greene e [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer: onde estes cultivam imagem e vantagem, Holiday alerta contra o ego.

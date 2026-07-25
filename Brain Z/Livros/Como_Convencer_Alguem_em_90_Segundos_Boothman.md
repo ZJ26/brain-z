@@ -2,7 +2,7 @@
 titulo: "Como Convencer Alguém em 90 Segundos"
 autor: "Nicholas Boothman"
 ano: 2000
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [comunicacao, rapport, primeira-impressao, persuasao, linguagem-corporal, relacionamentos]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ Os primeiros segundos de um encontro decidem grande parte da relação. Ao apren
 - Quando precisar abrir uma conversa importante com o pé direito.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre diálogo e relações)
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie no interesse genuíno e no sorriso como base da conexão.
 - Complementa [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus sobre rapport, espelhamento e leitura da linguagem corporal.
 - Dialoga com [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini no princípio da afeição (gostamos e confiamos em quem cria sintonia conosco).
 - Complementa [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg na escuta e na presença durante o diálogo.
+- Dialoga com [[Manual_de_Persuasao_do_FBI_Schafer|Manual de Persuasão do FBI]] de Jack Schafer sobre criar rapport e confiança nos primeiros contatos.

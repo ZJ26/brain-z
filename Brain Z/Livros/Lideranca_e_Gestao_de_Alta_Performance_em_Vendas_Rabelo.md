@@ -46,8 +46,8 @@ Times de vendas de alta performance não nascem do acaso nem dependem só de tal
 - Quando o resultado depende demais de poucos talentos.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[Gerenciando_Vendas_HBR|Gerenciando Vendas]] da Harvard Business Review sobre gestão de times comerciais.
 - Dialoga com [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer e [[Inteligencia_Emocional_em_Vendas_Blount|Inteligência Emocional em Vendas]] de Jeb Blount sobre a execução da venda pelo time.
 - Complementa [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] de Jocko Willink no equilíbrio entre cobrar resultados e desenvolver pessoas.
 - Ecoa [[A_Regra_E_Nao_Ter_Regras_Hastings|A Regra É Não Ter Regras]] de Reed Hastings sobre densidade de talento e desenvolvimento de times de alto desempenho.
+- Ecoa [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] de Jocko Willink sobre o líder que assume o resultado do time.

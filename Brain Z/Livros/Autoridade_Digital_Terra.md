@@ -2,7 +2,7 @@
 titulo: "Autoridade Digital"
 autor: "Rafael Terra"
 ano: 2018
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing-digital, autoridade, conteudo, redes-sociais, marca-pessoal, influencia]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ No ambiente digital, autoridade é o ativo que diferencia quem é ouvido de quem
 - Ao querer se posicionar como referência em uma área.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Dialoga com [[Cientista_do_Marketing_Digital_Lippert|Cientista do Marketing Digital]] de Dener Lippert sobre estratégia e execução de marketing no digital.
 - Complementa [[A_Arte_de_Escrever_para_a_Web_Macedo|A Arte de Escrever para a Web]] de Paulo Macedo sobre conteúdo que atrai e engaja online.
 - Dialoga com [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer sobre construir uma marca pessoal forte como fonte de influência.

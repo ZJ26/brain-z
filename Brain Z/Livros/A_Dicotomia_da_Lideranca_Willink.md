@@ -2,7 +2,7 @@
 titulo: "A Dicotomia da Liderança"
 autor: "Jocko Willink e Leif Babin"
 ano: 2018
-categoria: lideranca
+categoria: negocios-lideranca-e-gestao
 tags: [lideranca, gestao, equilibrio, responsabilidade, tomada-de-decisao, times]
 status: nao-lido
 avaliacao: 0
@@ -50,8 +50,7 @@ Liderar bem é uma questão de equilíbrio entre forças opostas. Todo princípi
 - Para revisar o próprio estilo de liderança e checar onde está desequilibrado.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar times)
 - Continuação direta de [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] (Extreme Ownership) dos mesmos autores, que estabelece a base sobre a qual as dicotomias operam.
 - Complementa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] do próprio Jocko Willink, levando a mentalidade individual de disciplina para o plano da liderança de equipes.
-- Dialoga com [[Os Líderes Comem por Último]] de Simon Sinek sobre o equilíbrio entre cuidar das pessoas e cobrar resultados.
-- Complementa [[Reinventando as Organizações]] de Frederic Laloux no debate entre autonomia descentralizada e responsabilidade central.
+- Dialoga com [[A_Regra_E_Nao_Ter_Regras_Hastings|A Regra É Não Ter Regras]] de Reed Hastings sobre equilibrar autonomia e direção nos times.
+- Complementa [[O_Lado_Dificil_das_Situacoes_Dificeis_Horowitz|O Lado Difícil das Situações Difíceis]] de Ben Horowitz sobre decisões duras de liderança.

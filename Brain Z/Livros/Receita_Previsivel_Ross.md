@@ -46,7 +46,6 @@ confianca: media
 - Quando o crescimento depende demais de poucos vendedores.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[Prospeccao_Fanatica_Blount|Prospecção Fanática]] de Jeb Blount sobre encher e manter o pipeline.
 - Dialoga com [[Gerenciando_Vendas_HBR|Gerenciando Vendas]] da Harvard Business Review e [[Lideranca_e_Gestao_de_Alta_Performance_em_Vendas_Rabelo|Liderança e Gestão de Alta Performance em Vendas]] de Camely Rabelo e Ricardo Okino sobre processo e gestão.
 - Ecoa [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis sobre processo e métricas para crescimento.

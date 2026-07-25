@@ -2,7 +2,7 @@
 titulo: "Organizações Exponenciais"
 autor: "Salim Ismail"
 ano: 2014
-categoria: inovacao
+categoria: negocios-lideranca-e-gestao
 tags: [inovacao, tecnologia, crescimento, escalabilidade, gestao, comunidade]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ Numa era de tecnologias que evoluem em ritmo exponencial, surgiram organizaçõe
 - Quando uma estrutura pesada e hierárquica estiver travando a velocidade de inovação.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Complementa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin sobre crescer por diferenciação radical e pelo entusiasmo de uma comunidade, e não pela propaganda tradicional.
 - Dialoga com [[Contagio_Berger|Contágio]] de Jonah Berger e [[Hit_Makers_Thompson|Hit Makers]] de Derek Thompson sobre engajamento, comunidade e os mecanismos de crescimento em rede.
 - Dialoga com [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] de Jocko Willink sobre comando descentralizado e autonomia das pontas como fonte de velocidade.

@@ -2,7 +2,7 @@
 titulo: "O Lado Difícil das Situações Difíceis"
 autor: "Ben Horowitz"
 ano: 2014
-categoria: lideranca
+categoria: negocios-lideranca-e-gestao
 tags: [lideranca, startups, gestao, decisao, crise, empreendedorismo]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ Não existe fórmula para as decisões mais duras de liderar uma empresa: demiti
 - Como relato honesto sobre a parte difícil de empreender e liderar.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar times)
 - Complementa [[A_Regra_E_Nao_Ter_Regras_Hastings|A Regra É Não Ter Regras]] de Reed Hastings sobre cultura, talento e decisões duras de pessoal.
 - Dialoga com [[A_Startup_Enxuta_Ries|A Startup Enxuta]] de Eric Ries e [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine sobre a realidade de construir empresas sob incerteza.
 - Ecoa [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] de Jocko Willink e [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] sobre liderar sob pressão e assumir a responsabilidade.

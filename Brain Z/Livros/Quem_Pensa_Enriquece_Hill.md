@@ -44,7 +44,6 @@ O sucesso e a riqueza começam na mente. A partir do estudo de centenas de pesso
 - Como clássico fundador da literatura de sucesso e prosperidade.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre propósito e realização)
 - Do mesmo autor de [[Mais_Esperto_Que_o_Diabo_Hill|Mais Esperto Que o Diabo]] e base de [[Padroes_de_Alta_Performance_Hill_Jota|Padrões de Alta Performance]] de Napoleon Hill e Joel Jota.
 - Dialoga com [[Mindset_Dweck|Mindset]] de Carol Dweck sobre o poder das crenças, ainda que por vias distintas.
 - Ecoa [[O_Poder_da_Acao_Vieira|O Poder da Ação]] de Paulo Vieira e [[Poder_Sem_Limites_Robbins|Poder Sem Limites]] de Tony Robbins sobre metas, crença e ação.

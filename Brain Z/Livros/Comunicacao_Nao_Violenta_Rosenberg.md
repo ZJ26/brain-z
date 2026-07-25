@@ -2,7 +2,7 @@
 titulo: "Comunicação Não Violenta"
 autor: "Marshall B. Rosenberg"
 ano: 1999
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [comunicacao, empatia, relacionamentos, escuta, conflito, autoconhecimento]
 status: nao-lido
 avaliacao: 0
@@ -48,7 +48,6 @@ A maior parte dos conflitos nasce de uma linguagem que julga, exige e culpa. A C
 - Para lidar com a própria raiva ou autocrítica de forma mais construtiva.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre diálogo e relações)
 - Complementa [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss sobre nomear emoções e escutar, ainda que com objetivos diferentes (conexão empática versus acordo estratégico).
 - Dialoga com [[Conversas_Dificeis_Stone|Conversas Difíceis]] de Douglas Stone e equipe de Harvard sobre como conduzir diálogos de alto risco emocional.
 - Ecoa a autoempatia de [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer no cuidado com o diálogo interno e as emoções.

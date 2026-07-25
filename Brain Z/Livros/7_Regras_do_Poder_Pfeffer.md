@@ -2,7 +2,7 @@
 titulo: 7 Regras do Poder
 autor: Jeffrey Pfeffer
 ano: 2022
-categoria: poder
+categoria: poder-e-estrategia
 tags:
   - poder
   - influencia
@@ -52,7 +52,6 @@ Poder é uma habilidade que se aprende e se pratica, não um traço com que se n
 - Para ler com mais realismo como pessoas alcançam e mantêm posições de poder, para além do discurso do mérito.
 
 ## Conexões
-- [[Poder e Influencia]] (índice temático que reúne os livros sobre poder e política das relações)
 - Diverge de [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie: onde Carnegie aposta em ser agradável e evitar conflito, Pfeffer argumenta que a simpatia é superestimada e nem sempre leva ao poder.
 - Complementa [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer no pragmatismo amoral de vencer a disputa, com a lógica de que o sucesso perdoa os meios.
 - Dialoga com [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman: aparecer poderoso e confiante funciona porque explora vieses de percepção (halo, fluência, excesso de confiança) do pensamento rápido.

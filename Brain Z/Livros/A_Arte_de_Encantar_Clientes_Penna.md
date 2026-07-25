@@ -47,7 +47,6 @@ Vender bem é encantar. Mais do que fechar um negócio, o objetivo é criar uma 
 - Ao querer transformar clientes em promotores espontâneos.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer sobre atitude, relacionamento e a lógica de que as pessoas gostam de comprar, não de que lhes vendam.
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie no interesse genuíno pelo outro como base do relacionamento.
 - Dialoga com [[O_Dom_da_Influencia_Spaulding|O Dom da Influência]] de Tommy Spaulding sobre construir relações verdadeiras em vez de contatos transacionais.

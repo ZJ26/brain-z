@@ -2,7 +2,7 @@
 titulo: "Poder & Manipulação"
 autor: "Jacob Petry"
 ano: 2018
-categoria: persuasao
+categoria: persuasao-e-influencia
 tags: [persuasao, manipulacao, influencia, poder, psicologia, defesa]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,9 @@ A manipulação está por toda parte, e a melhor defesa é entender como ela fun
 - Quando sentir pressão, culpa ou urgência artificial em uma decisão.
 
 ## Conexões
-- [[Poder e Influencia]] (índice temático que reúne os livros sobre poder e persuasão)
 - Complementa [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini sobre os gatilhos de influência e sua defesa.
 - Dialoga com [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer sobre estratagemas desonestos de convencimento.
 - Ecoa [[As_48_Leis_do_Poder_Greene|As 48 Leis do Poder]] de Robert Greene no reconhecimento das manobras de poder.
 - Complementa [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus sobre ler intenções e sinais do outro.
+- Dialoga com [[A_Arte_da_Seducao_Greene|A Arte da Sedução]] de Robert Greene sobre influência e manobras que operam abaixo da consciência do outro.
+- Complementa [[Palavras_Magicas_Berger|Palavras Mágicas]] de Jonah Berger sobre como a escolha das palavras influencia decisões, para o bem ou para manipular.

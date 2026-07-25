@@ -2,7 +2,7 @@
 titulo: "O Paladar Não Retrocede"
 autor: "Carlos Ferreirinha"
 ano: 2019
-categoria: marketing
+categoria: marketing-e-marca
 tags: [luxo, premium, marca, experiencia, valor, gestao]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Quem experimenta o melhor não quer voltar ao pior: o "paladar não retrocede". 
 - Quando a marca precisa crescer sem perder sua aura.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Dialoga com [[O_Marketing_e_a_Arte_do_Luxo_Moraes|O Marketing e a Arte do Luxo na Era da Experiência]] de Rosana de Moraes sobre luxo, experiência e significado.
 - Complementa [[Guiados_pelo_Encantamento_Michelli|Guiados pelo Encantamento]] de Joseph Michelli e [[Cliente_Feliz_Da_Lucro_Paula|Cliente Feliz Dá Lucro]] de Gisele Paula sobre experiência do cliente como diferencial.
 - Ecoa [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark sobre marca como significado e desejo.

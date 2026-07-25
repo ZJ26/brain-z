@@ -2,7 +2,7 @@
 titulo: "Como Fazer Alguém Gostar de Você em 90 Segundos"
 autor: "Nicholas Boothman"
 ano: 2008
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [rapport, primeira-impressao, relacionamentos, comunicacao, linguagem-corporal, empatia]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ Simpatia e conexão podem ser criadas quase instantaneamente. Nos primeiros segu
 - Quando precisar deixar alguém à vontade logo no início de uma conversa.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre diálogo e relações)
 - Companheiro de [[Como_Convencer_Alguem_em_90_Segundos_Boothman|Como Convencer Alguém em 90 Segundos]] do próprio Nicholas Boothman, focado na simpatia em vez da persuasão.
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie no sorriso e no interesse genuíno como base da simpatia.
 - Complementa [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus sobre rapport e leitura de sinais.
 - Dialoga com [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini no princípio da afeição.
+- Complementa [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg sobre empatia e escuta para criar conexão.

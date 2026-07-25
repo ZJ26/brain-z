@@ -2,7 +2,7 @@
 titulo: "A Startup Enxuta"
 autor: "Eric Ries"
 ano: 2011
-categoria: empreendedorismo
+categoria: negocios-lideranca-e-gestao
 tags: [empreendedorismo, startups, inovacao, experimentacao, produto, aprendizado]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ Startup é uma instituição feita para criar algo novo sob incerteza extrema, e
 - Quando faltar clareza sobre quais métricas realmente indicam progresso.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Fundamenta [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine e [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis, que partem do mesmo espírito de experimentação e aprendizado validado.
 - Dialoga com [[A_Arte_de_Comecar_Kawasaki|A Arte de Começar]] de Guy Kawasaki sobre agir e provar a ideia em vez de planejar indefinidamente.
 - Complementa [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail no papel da experimentação contínua dentro de organizações inovadoras.

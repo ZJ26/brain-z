@@ -2,7 +2,7 @@
 titulo: "Liderando o Futuro"
 autor: "Martha Gabriel"
 ano: 2021
-categoria: lideranca
+categoria: negocios-lideranca-e-gestao
 tags: [lideranca, futuro, tecnologia, transformacao-digital, inovacao, estrategia]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Num mundo de mudança exponencial e disrupção tecnológica, liderar exige nova
 - Quando a velocidade da mudança tornar planos rígidos obsoletos.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar e inspirar)
 - Dialoga com [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail sobre a lógica exponencial da tecnologia e das organizações.
 - Complementa [[A_Regra_E_Nao_Ter_Regras_Hastings|A Regra É Não Ter Regras]] de Reed Hastings sobre adaptabilidade e autonomia em contextos de mudança rápida.
 - Ecoa [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek sobre propósito como direção em meio à complexidade.

@@ -2,7 +2,7 @@
 titulo: "TED: Falar, Convencer, Emocionar"
 autor: "Carmine Gallo"
 ano: 2014
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [oratoria, apresentacao, storytelling, persuasao, comunicacao, palestra]
 status: nao-lido
 avaliacao: 0
@@ -49,8 +49,7 @@ As melhores apresentações do mundo seguem padrões identificáveis. Analisando
 - Quando precisa criar um momento memorável que fixe a mensagem no público.
 
 ## Conexões
-- [[Oratoria e Apresentacao]] (índice temático que reúne os livros sobre falar em público)
-- Complementa [[Storytelling]] de outros autores e a ideia de que narrativas movem pessoas mais que argumentos.
 - Dialoga com [[Ideias_que_Colam_Heath|Feito para Colar]] de Chip e Dan Heath sobre o que torna uma ideia memorável e transmissível.
-- Complementa [[TED Talks]] de Chris Anderson, o guia oficial do TED, com uma visão mais analítica dos padrões das melhores palestras.
+- Complementa [[TED_Talks_Anderson|TED Talks]] de Chris Anderson, o guia oficial do TED, com uma visão mais analítica dos padrões das melhores palestras.
 - Ecoa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin na ideia de que ser notável e digno de comentário vale mais que ser apenas correto.
+- Dialoga com [[Storytelling_com_Dados_Knaflic|Storytelling com Dados]] de Cole Nussbaumer Knaflic sobre foco e narrativa na apresentação.

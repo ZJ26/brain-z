@@ -2,7 +2,7 @@
 titulo: "O Estilo Startup"
 autor: "Eric Ries"
 ano: 2017
-categoria: empreendedorismo
+categoria: negocios-lideranca-e-gestao
 tags: [empreendedorismo, inovacao, gestao, startups, experimentacao, cultura]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ As práticas das startups (experimentação rápida, times pequenos, aprendizado
 - Quando a estrutura tradicional trava a capacidade de inovar.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Continuação de [[A_Startup_Enxuta_Ries|A Startup Enxuta]] do próprio Eric Ries, agora aplicada a grandes organizações.
 - Complementa [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail sobre estruturas autônomas e ágeis dentro da empresa.
 - Dialoga com [[A_Regra_E_Nao_Ter_Regras_Hastings|A Regra É Não Ter Regras]] de Reed Hastings sobre autonomia e cultura de inovação.
 - Ecoa [[A_Biblia_da_Inovacao_Kotler|A Bíblia da Inovação]] de Kotler e Trías de Bes sobre dar processo e método à inovação.
+- Dialoga com [[O_Lado_Dificil_das_Situacoes_Dificeis_Horowitz|O Lado Difícil das Situações Difíceis]] de Ben Horowitz e [[Startup_Livingston|Startup]] de Jessica Livingston sobre a realidade de inovar e escalar.

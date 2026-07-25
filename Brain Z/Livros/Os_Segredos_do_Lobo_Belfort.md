@@ -46,8 +46,8 @@ Vender é um processo que pode ser sistematizado. O método da "linha reta" (Str
 - Quando faltar controle e a conversa de venda se dispersa.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer e [[Prospeccao_Fanatica_Blount|Prospecção Fanática]] de Jeb Blount sobre o processo comercial.
 - Aplica na prática os gatilhos de [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini.
 - Dialoga com [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss sobre tom de voz e condução emocional.
 - Complementa [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus sobre linguagem corporal e rapport.
+- Dialoga com [[Manual_de_Persuasao_do_FBI_Schafer|Manual de Persuasão do FBI]] de Jack Schafer sobre rapport e leitura do outro na condução da venda.

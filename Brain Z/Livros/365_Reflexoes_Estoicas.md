@@ -2,7 +2,7 @@
 titulo: "365 Reflexões Estoicas"
 autor: "Compilação (autor não informado)"
 ano: 2016
-categoria: filosofia
+categoria: filosofia-e-espiritualidade
 tags: [estoicismo, filosofia, autocontrole, aceitacao, sabedoria, virtude]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ A sabedoria estoica cabe em pequenas doses diárias. Uma reflexão por dia, ao l
 - Para lembrar da finitude e reordenar prioridades.
 
 ## Conexões
-- [[Estoicismo]] (índice temático que reúne os livros da tradição estoica)
 - Reúne em forma diária a filosofia de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio, [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto e [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca.
 - Ecoa [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl na liberdade de escolher a atitude diante do que não se controla.
 - Dialoga com [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre a prática diária como caminho de autodomínio.

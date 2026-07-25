@@ -2,7 +2,7 @@
 titulo: "Palavras que Vendem Milhões"
 autor: "Gustavo Ferreira"
 ano: 2018
-categoria: copywriting
+categoria: marketing-e-marca
 tags: [copywriting, persuasao, vendas, escrita, marketing, gatilhos-mentais]
 status: nao-lido
 avaliacao: 0
@@ -48,7 +48,6 @@ As palavras certas, na ordem certa, movem pessoas à ação e vendem. Copywritin
 - Ao revisar títulos, promessas e chamadas para ação.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e texto que vende)
 - Complementa [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] do próprio Gustavo Ferreira: um foca nos gatilhos psicológicos, o outro na construção do texto que vende.
 - Dialoga com [[Nao_Me_Faca_Dormir_Oliveira|Não Me Faça Dormir]] de Natanael Oliveira sobre prender a atenção como condição para persuadir.
 - Complementa [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath sobre clareza, concretude e mensagem memorável.

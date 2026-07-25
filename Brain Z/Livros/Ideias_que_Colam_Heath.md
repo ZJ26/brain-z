@@ -2,7 +2,7 @@
 titulo: "Ideias que Colam"
 autor: "Chip Heath e Dan Heath"
 ano: 2007
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [comunicacao, storytelling, persuasao, marketing, ideias, memoria]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Algumas ideias grudam na memória e se espalham, enquanto outras desaparecem. Is
 - Ao perceber que você está próximo demais do assunto para explicá-lo com clareza (maldição do conhecimento).
 
 ## Conexões
-- [[Ideias e Comunicacao]] (índice temático que reúne os livros sobre transmitir mensagens)
 - Complementa [[TED_Falar_Convencer_Emocionar_Gallo|TED: Falar, Convencer, Emocionar]] de Carmine Gallo sobre o que torna uma apresentação memorável.
 - Dialoga com [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin: uma é sobre a ideia ser digna de comentário, a outra sobre a mensagem grudar e se espalhar.
 - Complementa [[Contagio_Berger|Contágio]] de Jonah Berger, que investiga por que certas ideias e produtos viralizam.

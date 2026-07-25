@@ -46,8 +46,9 @@ Vender é uma atividade cheia de rejeição, incerteza e pressão, e por isso a 
 - Ao unir filosofia estoica e prática de vendas.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Aplica às vendas a filosofia de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio e [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto sobre a dicotomia do controle.
 - Complementa [[Inteligencia_Emocional_em_Vendas_Blount|Inteligência Emocional em Vendas]] de Jeb Blount sobre autocontrole emocional na venda.
 - Dialoga com [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer sobre atitude e constância como base do resultado.
 - Ecoa [[O_Ego_E_Seu_Inimigo_Holiday|O Ego É Seu Inimigo]] de Ryan Holiday na aplicação moderna do estoicismo ao trabalho.
+- Ecoa [[Nada_Pode_Me_Ferir_Goggins|Nada Pode Me Ferir]] de David Goggins sobre resiliência e domínio da mente diante da adversidade.
+- Complementa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre autocontrole e rotina como base do desempenho.

@@ -2,7 +2,7 @@
 titulo: "O Príncipe"
 autor: "Nicolau Maquiavel"
 ano: 1532
-categoria: filosofia
+categoria: poder-e-estrategia
 tags: [poder, politica, estrategia, lideranca, realismo, historia]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ Ao analisar o poder como ele é, e não como deveria ser, Maquiavel argumenta qu
 - Como clássico fundador do pensamento político realista.
 
 ## Conexões
-- [[Poder e Influencia]] (índice temático que reúne os livros sobre poder e política)
 - Companheiro de [[As_48_Leis_do_Poder_Greene|As 48 Leis do Poder]] e [[33_Estrategias_de_Guerra_Greene|As 33 Estratégias da Guerra]] de Robert Greene, que atualizam o realismo maquiavélico.
 - Complementa [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer sobre o pragmatismo na conquista do poder.
 - Contraponto a [[A_Republica_Platao|A República]] de Platão e à [[Etica_Spinoza|Ética]] de Spinoza: onde estes perguntam o que é justo e virtuoso, Maquiavel pergunta o que é eficaz para manter o poder.

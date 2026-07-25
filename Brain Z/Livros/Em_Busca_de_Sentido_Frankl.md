@@ -2,7 +2,7 @@
 titulo: "Em Busca de Sentido"
 autor: "Viktor E. Frankl"
 ano: 1946
-categoria: psicologia
+categoria: desenvolvimento-pessoal
 tags: [sentido, proposito, sofrimento, resiliencia, logoterapia, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ Mesmo no sofrimento mais extremo, o ser humano pode encontrar sentido, e é esse
 - Ao refletir sobre liberdade interior e responsabilidade diante do que acontece.
 
 ## Conexões
-- [[Sentido e Responsabilidade]] (índice temático que reúne os livros sobre propósito e caráter)
 - Fundamenta [[12_Regras_para_a_Vida_Peterson|12 Regras para a Vida]] de Jordan Peterson, que retoma o sentido e a responsabilidade como resposta ao sofrimento inevitável.
 - Ecoa em [[Projeto_Proposito_Farias|Projeto Propósito]] de Hugo Farias sobre o propósito como força que sustenta a pessoa diante da adversidade.
 - Dialoga com o estoicismo de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio e [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca sobre a liberdade de escolher a atitude diante do que não se controla.

@@ -2,7 +2,7 @@
 titulo: "Palavras Mágicas"
 autor: "Jonah Berger"
 ano: 2023
-categoria: comunicacao
+categoria: persuasao-e-influencia
 tags: [linguagem, persuasao, comunicacao, influencia, psicologia, palavras]
 status: nao-lido
 avaliacao: 0
@@ -46,8 +46,8 @@ Pequenas mudanças na escolha das palavras produzem grandes efeitos na forma com
 - Em comunicação, marketing e relações pessoais.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e linguagem)
 - Do mesmo autor de [[Contagio_Berger|Contágio]] de Jonah Berger, agora focado no poder específico das palavras.
 - Complementa [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath sobre linguagem concreta e memorável.
 - Dialoga com [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini e [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira sobre influência.
 - Ecoa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman no efeito do enquadramento sobre a decisão.
+- Dialoga com [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus sobre ler o outro e ajustar a linguagem para influenciar.

@@ -2,7 +2,7 @@
 titulo: "Cientista do Marketing Digital"
 autor: "Dener Lippert"
 ano: 2020
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing-digital, dados, trafego, conversao, estrategia, vendas]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Marketing digital eficaz é feito como ciência: testar, medir e otimizar com ba
 - Ao querer escalar o que funciona em anúncios e vendas online.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Aplica ao marketing a lógica de experimentação de [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis e [[A_Startup_Enxuta_Ries|A Startup Enxuta]] de Eric Ries.
 - Dialoga com [[Autoridade_Digital_Terra|Autoridade Digital]] de Rafael Terra sobre presença e conteúdo no ambiente digital.
 - Complementa [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre o que move a decisão de compra por trás dos números.

@@ -2,7 +2,7 @@
 titulo: "O Investidor Inteligente"
 autor: "Benjamin Graham"
 ano: 1949
-categoria: financas
+categoria: financas-e-investimentos
 tags: [investimentos, value-investing, financas, risco, disciplina, mercado]
 status: nao-lido
 avaliacao: 0
@@ -44,8 +44,8 @@ Investir com sucesso é uma questão de temperamento e disciplina, não de genia
 - Como base clássica da filosofia de value investing.
 
 ## Conexões
-- [[Vieses Cognitivos]] (índice temático que reúne os livros sobre decisão e comportamento)
 - Complementa [[A_Psicologia_Financeira_Housel|A Psicologia Financeira]] de Morgan Housel sobre comportamento, margem de segurança e o próprio investidor como maior risco.
 - Dialoga com [[O_Rei_dos_Dividendos_Barsi|O Rei dos Dividendos]] de Luiz Barsi sobre investir em valor e no longo prazo.
 - Ecoa [[Antifragil_Taleb|Antifrágil]] de Nassim Taleb sobre margem de segurança e proteção contra o imprevisível.
 - Dialoga com [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman sobre os vieses emocionais que sabotam decisões financeiras.
+- Complementa [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli sobre os vieses (custo afundado, confirmação) que sabotam o investidor.

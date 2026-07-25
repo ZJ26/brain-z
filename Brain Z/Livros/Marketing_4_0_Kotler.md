@@ -2,7 +2,7 @@
 titulo: "Marketing 4.0"
 autor: "Philip Kotler, Hermawan Kartajaya e Iwan Setiawan"
 ano: 2016
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing, digital, marca, jornada-do-cliente, comunidade, advocacia]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ O marketing 4.0 integra o mundo online e offline, movendo o marketing do tradici
 - Para pensar marca com autenticidade e valores no ambiente social.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Base da trilogia que continua em [[Marketing_5_0_Kotler|Marketing 5.0]] e [[Marketing_6_0_Kotler|Marketing 6.0]] dos mesmos autores.
 - Dialoga com [[Contagio_Berger|Contágio]] de Jonah Berger sobre boca a boca e advocacia do cliente.
 - Complementa [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek e [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark sobre marca com propósito e significado.

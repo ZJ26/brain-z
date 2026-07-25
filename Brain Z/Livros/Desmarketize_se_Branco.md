@@ -2,7 +2,7 @@
 titulo: "Desmarketize-se"
 autor: "João Branco"
 ano: 2022
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing, marca, proposito, humanizacao, comunicacao, negocios]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ O marketing tradicional, cheio de jargão, fórmulas e artificialidade, afasta a
 - Ao buscar diferenciar a marca por conexão humana, não por fórmula.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Ecoa [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek sobre marca guiada por propósito, não por produto.
 - Complementa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin sobre ser autêntico e notável em vez de genérico.
 - Dialoga com [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark sobre marca com significado humano.
 - Complementa [[Contagio_Berger|Contágio]] de Jonah Berger sobre conexão e mensagem que as pessoas realmente querem compartilhar.
+- Dialoga com [[StoryBrand_Miller|StoryBrand]] de Donald Miller sobre clarear a mensagem, e com [[Dedique_se_de_Coracao_Schultz|Dedique-se de Coração]] de Howard Schultz sobre marca guiada por propósito.

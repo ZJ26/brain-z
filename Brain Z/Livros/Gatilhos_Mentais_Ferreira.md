@@ -2,7 +2,7 @@
 titulo: "Gatilhos Mentais"
 autor: "Gustavo Ferreira"
 ano: 2019
-categoria: copywriting
+categoria: marketing-e-marca
 tags: [copywriting, persuasao, gatilhos-mentais, marketing, vendas, vieses-cognitivos]
 status: nao-lido
 avaliacao: 0
@@ -48,7 +48,6 @@ A maior parte das decisões de compra acontece no plano automático e emocional 
 - Quando faltar clareza sobre como falar à emoção sem abrir mão da entrega de valor.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e texto que vende)
 - Aplica na prática os vieses descritos em [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman e catalogados em [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli: os gatilhos funcionam porque exploram o pensamento rápido.
 - Complementa [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath sobre tornar a mensagem memorável e persuasiva.
 - Dialoga com [[Contagio_Berger|Contágio]] de Jonah Berger sobre os gatilhos que fazem uma ideia ou produto se espalhar.

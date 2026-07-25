@@ -2,7 +2,7 @@
 titulo: "A Arte de Ter Razão"
 autor: "Arthur Schopenhauer"
 ano: 1831
-categoria: filosofia
+categoria: persuasao-e-influencia
 tags: [retorica, argumentacao, dialetica, persuasao, debate, logica]
 status: nao-lido
 avaliacao: 0
@@ -47,8 +47,7 @@ Ter razão e parecer ter razão são coisas diferentes. Schopenhauer separa a l�
 - Quando precisa decidir se vale a pena entrar numa discussão ou simplesmente se retirar.
 
 ## Conexões
-- [[Retorica e Argumentacao]] (índice temático que reúne os livros sobre debate e persuasão)
-- Contraponto ético a [[Retórica]] de Aristóteles, que trata da persuasão legítima, enquanto Schopenhauer expõe a persuasão desonesta.
 - Complementa [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini, que mapeia os gatilhos psicológicos por trás de muitas dessas manobras.
 - Dialoga com [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman: vários estratagemas exploram justamente os vieses do pensamento rápido e a preguiça do raciocínio deliberado.
 - Complementa [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss por outra via: onde Voss busca acordo pela empatia, Schopenhauer expõe a discussão como disputa a ser vencida.
+- Complementa [[Poder_e_Manipulacao_Petry|Poder & Manipulação]] de Jacob Petry sobre reconhecer estratagemas desonestos no debate.

@@ -2,7 +2,7 @@
 titulo: "Copywriting"
 autor: "Paulo Macedo"
 ano: 2019
-categoria: copywriting
+categoria: marketing-e-marca
 tags: [copywriting, persuasao, vendas, escrita, marketing, gatilhos-mentais]
 status: nao-lido
 avaliacao: 0
@@ -49,7 +49,6 @@ Copywriting é a habilidade de escrever textos que persuadem e vendem. O segredo
 - Quando faltar clareza sobre como unir emoção, prova e ação em um texto.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e texto que vende)
 - Complementa [[A_Arte_de_Escrever_para_a_Web_Macedo|A Arte de Escrever para a Web]] do próprio Paulo Macedo, levando a escrita persuasiva para o terreno específico das páginas de venda.
 - Complementa [[Palavras_que_Vendem_Milhoes_Ferreira|Palavras que Vendem Milhões]] e [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira sobre estrutura de texto e gatilhos de persuasão.
 - Dialoga com [[Nao_Me_Faca_Dormir_Oliveira|Não Me Faça Dormir]] de Natanael Oliveira na ideia de manter o leitor avançando sem entediar.

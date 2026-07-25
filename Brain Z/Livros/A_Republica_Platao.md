@@ -2,7 +2,7 @@
 titulo: "A República"
 autor: "Platão"
 ano: -375
-categoria: filosofia
+categoria: filosofia-e-espiritualidade
 tags: [filosofia, justica, politica, etica, virtude, conhecimento]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ Partindo da pergunta "o que é a justiça e por que ser justo?", Platão constr�
 - Como fundamento clássico para debates sobre poder, virtude e educação.
 
 ## Conexões
-- [[Filosofia]] (índice temático que reúne os clássicos do pensamento)
 - Fundamento clássico do qual dialogam os estoicos [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio e [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto sobre a razão que governa a alma e a virtude como bem maior.
 - Contraponto filosófico a [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer e [[33_Estrategias_de_Guerra_Greene|As 33 Estratégias da Guerra]] de Robert Greene: onde estes tratam o poder como fim e vantagem, Platão pergunta o que é justo e quem deve governar.
 - Dialoga com [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer: a dialética de Platão busca a verdade pelo diálogo, enquanto Schopenhauer expõe a discussão como disputa a vencer.

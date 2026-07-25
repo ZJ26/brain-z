@@ -2,7 +2,7 @@
 titulo: "Ponto de Inflexão"
 autor: "Flávio Augusto da Silva"
 ano: 2020
-categoria: empreendedorismo
+categoria: negocios-lideranca-e-gestao
 tags: [empreendedorismo, mentalidade, negocios, carreira, proposito, gestao]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Existem momentos que mudam a curva de uma vida ou de um negócio: os pontos de i
 - Como inspiração a partir de uma trajetória empreendedora.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre propósito e realização)
 - Dialoga com [[A_Trinca_Jornada_da_Liberdade_Carneiro|A Trinca: Jornada da Liberdade]] de Caio Carneiro, Flávio Augusto (coautor) e Joel Jota sobre mentalidade e liberdade.
 - Ecoa [[Seja_Foda_Carneiro|Seja Foda!]] de Caio Carneiro e [[Eu_SA_Simmons|Eu, S.A.]] de Gene Simmons sobre atitude e responsabilidade pessoal.
 - Complementa [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine sobre gerar valor a partir de problemas reais.

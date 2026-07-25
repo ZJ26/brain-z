@@ -2,7 +2,7 @@
 titulo: "A Arte de Começar"
 autor: "Guy Kawasaki"
 ano: 2004
-categoria: empreendedorismo
+categoria: negocios-lideranca-e-gestao
 tags: [empreendedorismo, startups, negocios, inovacao, produto, pitch]
 status: nao-lido
 avaliacao: 0
@@ -48,7 +48,6 @@ Começar algo (uma empresa, um projeto, uma iniciativa) é menos sobre planos pe
 - Quando o perfeccionismo estiver travando o começo.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Dialoga com [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine sobre agir, testar e resolver um problema real desde o início.
 - Complementa [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail no propósito grande e no ecossistema como base do crescimento.
 - Complementa [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis sobre conquistar os primeiros usuários certos e ganhar tração.

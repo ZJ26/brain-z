@@ -2,7 +2,7 @@
 titulo: "Ética"
 autor: "Baruch de Spinoza"
 ano: 1677
-categoria: filosofia
+categoria: filosofia-e-espiritualidade
 tags: [filosofia, etica, razao, emocoes, liberdade, metafisica]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ Deus e a Natureza são uma só substância infinita, e tudo o que existe é uma 
 - Como clássico da filosofia sobre Deus, natureza e felicidade.
 
 ## Conexões
-- [[Filosofia]] (índice temático que reúne os clássicos do pensamento)
 - Dialoga com o estoicismo de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio e [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto sobre aceitar a ordem necessária e dominar as paixões pela razão.
 - Diverge de [[Confissoes_de_Santo_Agostinho|Confissões]] de Santo Agostinho e de [[A_Republica_Platao|A República]] de Platão sobre a natureza de Deus e do bem: em Spinoza, Deus é a própria Natureza, não um criador transcendente nem uma Ideia separada.
 - Ressoa com a [[Bhagavad_Gita_Vyasa|Bhagavad Gita]] na serenidade que vem de compreender e aceitar a ordem maior das coisas.

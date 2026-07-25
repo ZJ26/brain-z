@@ -2,7 +2,7 @@
 titulo: "A Estratégia do Oceano Azul"
 autor: "W. Chan Kim e Renée Mauborgne"
 ano: 2005
-categoria: estrategia
+categoria: negocios-lideranca-e-gestao
 tags: [estrategia, inovacao, marketing, diferenciacao, mercado, valor]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ Em vez de competir em mercados saturados e sangrentos (oceanos vermelhos), a est
 - Quando a concorrência acirrada está corroendo margens e diferenciação.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Complementa [[A_Biblia_da_Inovacao_Kotler|A Bíblia da Inovação]] de Fernando Trías de Bes e Philip Kotler sobre inovar de forma estruturada e ligada à estratégia.
 - Ecoa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin na ideia de ser radicalmente diferente em vez de mais um no mercado.
 - Dialoga com [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine sobre encontrar espaços de valor a partir de problemas reais e não atendidos.

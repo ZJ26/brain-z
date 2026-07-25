@@ -44,7 +44,6 @@ A vulnerabilidade não é fraqueza, é a medida mais precisa da coragem. Aceitar
 - Ao querer coragem para se mostrar como é, no trabalho e na vida pessoal.
 
 ## Conexões
-- [[Espiritualidade e Consciencia]] (índice temático que reúne os livros sobre autoconhecimento interior)
 - Complementa [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer sobre baixar as defesas e permanecer aberto em vez de se blindar.
 - Dialoga com [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg sobre empatia, autenticidade e o cuidado com as emoções na relação.
 - Ecoa [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl na coragem de encontrar valor mesmo na dor e na imperfeição.

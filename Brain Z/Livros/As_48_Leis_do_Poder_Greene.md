@@ -2,7 +2,7 @@
 titulo: "As 48 Leis do Poder"
 autor: "Robert Greene"
 ano: 1998
-categoria: poder
+categoria: poder-e-estrategia
 tags: [poder, estrategia, influencia, politica, manipulacao, historia]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ O poder é um jogo social com regras que se repetem ao longo da história. Reuni
 - Como contraponto realista (e às vezes cínico) sobre como o poder opera de fato.
 
 ## Conexões
-- [[Poder e Influencia]] (índice temático que reúne os livros sobre poder e persuasão)
 - Companheiro de [[33_Estrategias_de_Guerra_Greene|As 33 Estratégias da Guerra]] e [[A_Arte_da_Seducao_Greene|A Arte da Sedução]] do próprio Robert Greene, a mesma leitura estratégica aplicada ao poder social.
 - Complementa [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer, versão mais acadêmica e organizacional da mesma lógica de conquista de poder.
 - Dialoga com [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer no uso de estratagemas amorais para vencer disputas.

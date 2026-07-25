@@ -2,7 +2,7 @@
 titulo: "Apaixone-se pelo Problema, Não pela Solução"
 autor: "Uri Levine"
 ano: 2023
-categoria: empreendedorismo
+categoria: negocios-lideranca-e-gestao
 tags: [empreendedorismo, startups, produto, foco, inovacao, product-market-fit]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ O empreendedor de sucesso se apaixona pelo problema que quer resolver, não pela
 - Ao decidir sobre equipe, contratações e demissões nos estágios iniciais.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Complementa [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis: Levine cuida do encaixe produto-mercado que precede o crescimento, enquanto Ellis dá o motor de experimentação que vem depois.
 - Dialoga com [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail sobre construir negócios em torno de um problema grande o bastante para mobilizar escala.
 - Ecoa [[Foco_O_Poder_da_Unica_Coisa_Almeida|Foco: O Poder da Única Coisa]] de Vinícius Almeida na disciplina de decidir o que não fazer e concentrar energia no essencial.

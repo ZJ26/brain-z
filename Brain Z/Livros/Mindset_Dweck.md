@@ -2,7 +2,7 @@
 titulo: "Mindset: A Nova Psicologia do Sucesso"
 autor: "Carol S. Dweck"
 ano: 2006
-categoria: psicologia
+categoria: desenvolvimento-pessoal
 tags: [mentalidade, aprendizado, esforco, resiliencia, crescimento, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ A crença que temos sobre nossas próprias capacidades molda tudo. Quem tem ment
 - Para repensar a relação entre talento, esforço e resultado.
 
 ## Conexões
-- [[Disciplina e Habitos]] (índice temático que reúne os livros sobre autodesenvolvimento)
 - Dialoga com [[O_Jeito_Harvard_de_Ser_Feliz_Achor|O Jeito Harvard de Ser Feliz]] de Shawn Achor sobre atitude mental e crescimento como vantagem.
 - Complementa [[Cabeca_de_Campeao_Ducasse|Cabeça de Campeão]] de François Ducasse sobre a mentalidade que sustenta o alto desempenho.
 - Ecoa [[Nada_Pode_Me_Ferir_Goggins|Nada Pode Me Ferir]] de David Goggins e [[Mais_Esperto_Que_o_Diabo_Hill|Mais Esperto Que o Diabo]] de Napoleon Hill sobre superar limites autoimpostos.

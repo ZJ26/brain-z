@@ -2,7 +2,7 @@
 titulo: "A Vaca Roxa"
 autor: "Seth Godin"
 ano: 2003
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing, diferenciacao, produto, inovacao, nicho, boca-a-boca]
 status: nao-lido
 avaliacao: 0
@@ -46,8 +46,7 @@ Para se destacar num mundo saturado de propaganda, um produto precisa ser notáv
 - Quando uma fórmula que funcionava parou de gerar boca a boca e precisa ser renovada.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
-- Complementa [[Isto é Marketing]] do próprio Seth Godin, que amplia a ideia de servir a um nicho específico ("o menor público viável").
-- Dialoga com [[A Cauda Longa]] de Chris Anderson sobre a economia dos nichos frente ao mercado de massa.
 - Complementa [[Ideias_que_Colam_Heath|Feito para Colar]] de Chip e Dan Heath sobre por que certas ideias se espalham e outras não.
 - Dialoga com [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark: ser notável pelo produto (Godin) e ser notável pelo significado arquetípico da marca (Mark) são dois caminhos para a mesma diferenciação.
+- Dialoga com [[A_Estrategia_do_Oceano_Azul_Kim|A Estratégia do Oceano Azul]] de W. Chan Kim sobre diferenciar-se para fugir da concorrência.
+- Ecoa [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek sobre marca notável guiada por propósito.

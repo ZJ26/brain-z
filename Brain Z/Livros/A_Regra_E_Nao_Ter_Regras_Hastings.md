@@ -2,7 +2,7 @@
 titulo: "A Regra É Não Ter Regras"
 autor: "Reed Hastings e Erin Meyer"
 ano: 2020
-categoria: gestao
+categoria: negocios-lideranca-e-gestao
 tags: [gestao, cultura, lideranca, autonomia, times, inovacao]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ A cultura da Netflix se baseia em substituir controles e processos por liberdade
 - Quando processos e aprovações estiverem travando a velocidade e a inovação.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar times)
 - Dialoga com [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] de Jocko Willink sobre comando descentralizado e o equilíbrio entre autonomia e direção.
 - Complementa [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail sobre autonomia, estruturas enxutas e velocidade.
 - Diverge da gestão tradicional de [[Tudo_o_que_Voce_Precisa_Saber_sobre_Gestao_Soundering|Tudo o que Você Precisa Saber sobre Gestão]] de Stephen Soundering, ao trocar regras e controle por liberdade e responsabilidade.

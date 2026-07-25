@@ -2,7 +2,7 @@
 titulo: "Responsabilidade Extrema"
 autor: "Jocko Willink e Leif Babin"
 ano: 2015
-categoria: lideranca
+categoria: negocios-lideranca-e-gestao
 tags: [lideranca, responsabilidade, gestao, times, execucao, tomada-de-decisao]
 status: nao-lido
 avaliacao: 0
@@ -50,8 +50,7 @@ O líder é responsável por absolutamente tudo em seu mundo. Não há a quem cu
 - Para alinhar expectativas e comunicação com superiores e liderados ao mesmo tempo.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar times)
 - Base de [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] dos mesmos autores, que refina esses princípios mostrando que cada um tem um oposto a equilibrar.
 - Complementa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] do próprio Jocko Willink, que traz a mesma mentalidade para o plano da disciplina individual.
-- Dialoga com [[Os Líderes Comem por Último]] de Simon Sinek sobre o líder que serve e protege a equipe.
-- Complementa [[Empresas Feitas para Vencer]] (Good to Great) de Jim Collins na figura do líder de Nível 5, que combina humildade pessoal e vontade férrea.
+- Dialoga com [[O_Lado_Dificil_das_Situacoes_Dificeis_Horowitz|O Lado Difícil das Situações Difíceis]] de Ben Horowitz sobre assumir a responsabilidade nas decisões duras.
+- Ecoa [[O_Ego_E_Seu_Inimigo_Holiday|O Ego É Seu Inimigo]] de Ryan Holiday sobre assumir a culpa em vez de proteger o ego.

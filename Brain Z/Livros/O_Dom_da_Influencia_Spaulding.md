@@ -2,7 +2,7 @@
 titulo: "O Dom da Influência"
 autor: "Tommy Spaulding"
 ano: 2010
-categoria: relacionamentos
+categoria: persuasao-e-influencia
 tags: [relacionamentos, influencia, lideranca, empatia, autenticidade, networking]
 status: nao-lido
 avaliacao: 0
@@ -42,7 +42,6 @@ Influência de verdade não vem de contatos superficiais nem de troca de favores
 - Ao refletir sobre como o interesse genuíno pelo outro amplia a própria influência.
 
 ## Conexões
-- [[Relacionamentos e Influencia]] (índice temático que reúne os livros sobre lidar com pessoas)
 - Complementa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie sobre o interesse sincero pelo outro como base para influenciar.
 - Complementa [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg sobre empatia, escuta e conexão autêntica.
 - Diverge de [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer: onde Pfeffer trata do poder como jogo pessoal e do networking como tática, Spaulding aposta em relações genuínas e não transacionais.

@@ -2,7 +2,7 @@
 titulo: "O Herói e o Fora da Lei"
 autor: "Margaret Mark e Carol S. Pearson"
 ano: 2001
-categoria: branding
+categoria: marketing-e-marca
 tags: [arquetipos, marca, significado, jung, posicionamento, identidade-de-marca]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,6 @@ Marcas extraordinárias se constroem quando encarnam de forma consistente um arq
 - Quando é preciso um vocabulário compartilhado para alinhar time e liderança sobre "quem é" a marca.
 
 ## Conexões
-- [[Arquetipos de Marca]] (índice temático que reúne os vários livros sobre o tema)
-- Bebe diretamente de [[Os Arquétipos e o Inconsciente Coletivo]] de Carl Jung, aplicando a psicologia analítica ao campo das marcas.
-- Complementa [[Building Strong Brands]] de David Aaker, que trata de identidade e equity de marca por uma via mais estratégica e menos simbólica.
-- Dialoga com [[Positioning]] de Al Ries e Jack Trout: ambos buscam um lugar único na mente do público, mas Mark e Pearson chegam lá pelo significado arquetípico, e não pela diferenciação competitiva.
-- Diverge em ênfase de [[How Brands Grow]] de Byron Sharp, que credita o crescimento mais à disponibilidade mental e física do que ao significado emocional profundo.
+- Dialoga com [[StoryBrand_Miller|StoryBrand]] de Donald Miller sobre marca construída como narrativa em que o cliente é o herói.
+- Complementa [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek e [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin sobre diferenciar-se por significado, não por características.
+- Dialoga com [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre marcas que ativam emoção e identidade no cérebro do consumidor.

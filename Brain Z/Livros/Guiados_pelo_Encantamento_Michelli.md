@@ -46,7 +46,6 @@ Empresas admiradas não competem só por produto ou preço, mas por experiência
 - Ao lidar com recuperação de falhas e fidelização.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[Cliente_Feliz_Da_Lucro_Paula|Cliente Feliz Dá Lucro]] de Gisele Paula e [[A_Arte_de_Encantar_Clientes_Penna|A Arte de Encantar Clientes]] de Erik Penna sobre experiência e encantamento do cliente.
 - Ilustra na prática [[Dedique_se_de_Coracao_Schultz|Dedique-se de Coração]] de Howard Schultz sobre cultura e experiência (a Starbucks é um dos casos estudados por Michelli).
 - Ecoa [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek sobre valores e propósito que guiam a marca.

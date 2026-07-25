@@ -2,7 +2,7 @@
 titulo: "Hooked: Como Construir Produtos e Serviços Formadores de Hábitos"
 autor: "Nir Eyal"
 ano: 2014
-categoria: produto
+categoria: psicologia-e-comportamento
 tags: [habitos, produto, comportamento, tecnologia, engajamento, design]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ Produtos que fazem parte da rotina das pessoas não dependem de propaganda const
 - Para refletir sobre a ética do design que forma hábitos.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Aplica ao design de produtos os vieses de [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman e os gatilhos de [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira.
 - Complementa [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis sobre retenção e engajamento como base do crescimento.
 - Dialoga com [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre gatilhos e comportamento automático de consumo.

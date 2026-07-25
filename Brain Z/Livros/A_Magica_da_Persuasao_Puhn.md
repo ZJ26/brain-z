@@ -2,7 +2,7 @@
 titulo: "A Mágica da Persuasão"
 autor: "Adele Puhn"
 ano: 0
-categoria: persuasao
+categoria: persuasao-e-influencia
 tags: [persuasao, influencia, comunicacao, negociacao, psicologia, retorica]
 status: nao-lido
 avaliacao: 0
@@ -46,8 +46,9 @@ Persuadir não é forçar, é conduzir o outro a concordar por vontade própria.
 - Quando faltar clareza sobre como conduzir alguém a uma decisão sem forçar.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e influência)
 - Dialoga com [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira sobre os gatilhos psicológicos que sustentam a persuasão.
 - Complementa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie na influência pela empatia e pela escuta.
 - Dialoga com [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss no uso da emoção para conduzir decisões.
 - Contraponto ético a [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer, que expõe a persuasão desonesta em vez da legítima.
+- Dialoga com [[Palavras_Magicas_Berger|Palavras Mágicas]] de Jonah Berger e [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus sobre linguagem e leitura do outro na persuasão.
+- Dialoga com [[Os_Segredos_do_Lobo_Belfort|Os Segredos do Lobo]] de Jordan Belfort sobre conduzir o outro à decisão pela emoção e pela linguagem.

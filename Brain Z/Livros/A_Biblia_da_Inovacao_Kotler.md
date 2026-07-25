@@ -2,7 +2,7 @@
 titulo: "A Bíblia da Inovação"
 autor: "Fernando Trías de Bes e Philip Kotler"
 ano: 2011
-categoria: inovacao
+categoria: negocios-lideranca-e-gestao
 tags: [inovacao, marketing, criatividade, processo, produto, gestao]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ Inovar não é esperar por um lampejo de genialidade, é um processo que pode se
 - Quando faltar método e a criatividade não estiver virando resultado.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Complementa [[A_Estrategia_do_Oceano_Azul_Kim|A Estratégia do Oceano Azul]] de W. Chan Kim e Renée Mauborgne sobre criar mercados novos por meio da inovação de valor.
 - Dialoga com [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail sobre estruturar organizações para inovar e escalar.
 - Complementa [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine ao dar processo ao que Levine trata como descoberta do problema certo.

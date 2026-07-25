@@ -2,7 +2,7 @@
 titulo: "Marketing 5.0"
 autor: "Philip Kotler, Hermawan Kartajaya e Iwan Setiawan"
 ano: 2021
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing, tecnologia, dados, inteligencia-artificial, digital, experiencia]
 status: nao-lido
 avaliacao: 0
@@ -44,8 +44,8 @@ O marketing 5.0 usa a tecnologia (inteligência artificial, dados, automação, 
 - Para equilibrar tecnologia e humanidade na relação com o cliente.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Continuação de [[Marketing_4_0_Kotler|Marketing 4.0]] e antecessora de [[Marketing_6_0_Kotler|Marketing 6.0]] dos mesmos autores.
 - Dialoga com [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail sobre dados, algoritmos e tecnologia na estratégia.
 - Complementa [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre entender o comportamento por trás dos dados.
 - Ecoa [[Liderando_o_Futuro_Gabriel|Liderando o Futuro]] de Martha Gabriel sobre tecnologia a serviço das pessoas.
+- Dialoga com [[Cientista_do_Marketing_Digital_Lippert|Cientista do Marketing Digital]] de Dener Lippert sobre dados e personalização na prática do marketing.

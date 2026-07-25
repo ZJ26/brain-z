@@ -2,7 +2,7 @@
 titulo: "O Almanaque de Naval Ravikant"
 autor: "Eric Jorgenson"
 ano: 2020
-categoria: desenvolvimento-pessoal
+categoria: financas-e-investimentos
 tags: [riqueza, felicidade, sabedoria, decisao, aprendizado, financas]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ Reunindo ideias de Naval Ravikant sobre riqueza e felicidade, o livro defende qu
 - Para princípios de decisão e vida de longo prazo.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre vida, propósito e realização)
 - Dialoga com [[A_Psicologia_Financeira_Housel|A Psicologia Financeira]] de Morgan Housel sobre riqueza, liberdade e o papel do tempo.
 - Ecoa a sabedoria estoica de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio e [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca sobre paz interior e uso do tempo.
 - Complementa [[Antifragil_Taleb|Antifrágil]] de Nassim Taleb sobre risco, opcionalidade e pele em jogo.

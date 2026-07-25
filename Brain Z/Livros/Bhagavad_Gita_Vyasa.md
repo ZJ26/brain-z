@@ -2,7 +2,7 @@
 titulo: "Bhagavad Gita"
 autor: "Vyasa"
 ano: -200
-categoria: espiritualidade
+categoria: filosofia-e-espiritualidade
 tags: [espiritualidade, filosofia, dever, desapego, acao, autoconhecimento]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ Diante do dever e do conflito, o caminho é agir com plenitude, mas sem apego ao
 - Para refletir sobre a distinção entre o Eu permanente e as flutuações passageiras da mente e das emoções.
 
 ## Conexões
-- [[Espiritualidade e Consciencia]] (índice temático que reúne os livros sobre autoconhecimento interior)
 - Ecoa em [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer na ideia da testemunha imutável por trás da mente e das ações.
 - Dialoga com [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio sobre cumprir o dever e aceitar o que não se controla, por uma via estoica paralela.
 - Complementa [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto na dicotomia entre o que depende de nós (a ação) e o que não depende (os frutos).

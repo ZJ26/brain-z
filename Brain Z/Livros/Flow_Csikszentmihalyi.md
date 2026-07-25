@@ -2,7 +2,7 @@
 titulo: "Flow: A Psicologia do Alto Desempenho e da Felicidade"
 autor: "Mihaly Csikszentmihalyi"
 ano: 1990
-categoria: psicologia
+categoria: desenvolvimento-pessoal
 tags: [fluxo, foco, concentracao, produtividade, felicidade, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ As melhores experiências da vida não acontecem quando estamos relaxados e pass
 - Ao projetar rotinas e ambientes que protejam a concentração.
 
 ## Conexões
-- [[Foco e Produtividade]] (índice temático que reúne os livros sobre atenção e prioridades)
 - Complementa [[Foco_O_Poder_da_Unica_Coisa_Almeida|Foco: O Poder da Única Coisa]] de Vinícius Almeida sobre proteger a atenção e concentrar energia em uma coisa de cada vez.
 - Dialoga com [[O_Jeito_Harvard_de_Ser_Feliz_Achor|O Jeito Harvard de Ser Feliz]] de Shawn Achor sobre engajamento e estados positivos como base de bem-estar e desempenho.
 - Ecoa [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl na ideia de que a satisfação profunda vem de dedicar-se a algo desafiador e cheio de sentido.

@@ -2,7 +2,7 @@
 titulo: "Comece pelo Porquê"
 autor: "Simon Sinek"
 ano: 2009
-categoria: lideranca
+categoria: negocios-lideranca-e-gestao
 tags: [proposito, lideranca, marca, motivacao, comunicacao, inspiracao]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ As pessoas não compram o que você faz, mas por que você faz. Líderes e organ
 - Quando faltar clareza sobre o "porquê" por trás do que você faz.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar e inspirar)
 - Ecoa [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail no Propósito Transformador Massivo como força que mobiliza pessoas.
 - Complementa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin e [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark sobre marcas que se diferenciam por significado, não por características.
 - Dialoga com [[A_Arte_de_Comecar_Kawasaki|A Arte de Começar]] de Guy Kawasaki sobre começar pelo significado, e não pelo dinheiro.

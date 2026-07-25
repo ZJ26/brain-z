@@ -2,7 +2,7 @@
 titulo: "Não Me Faça Pensar!"
 autor: "Steve Krug"
 ano: 2000
-categoria: design
+categoria: marketing-e-marca
 tags: [usabilidade, ux, web, design, simplicidade, experiencia]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ A primeira lei da usabilidade é: não me faça pensar. Um site ou aplicativo be
 - Ao planejar testes de usabilidade simples e eficazes.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre comunicação e experiência)
 - Complementa [[A_Arte_de_Escrever_para_a_Web_Macedo|A Arte de Escrever para a Web]] de Paulo Macedo sobre escaneabilidade e clareza no digital.
 - Dialoga com [[Nao_Me_Faca_Dormir_Oliveira|Não Me Faça Dormir]] de Natanael Oliveira sobre reduzir o esforço do leitor e não perder sua atenção.
 - Complementa [[Hooked_Eyal|Hooked]] de Nir Eyal sobre reduzir o atrito da ação no design de produtos.

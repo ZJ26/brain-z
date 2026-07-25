@@ -46,7 +46,6 @@ Trate a si mesmo como uma empresa: você é o CEO da sua própria vida e carreir
 - Ao buscar independência financeira e reinvenção profissional.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne relatos e livros sobre propósito e ação)
 - Dialoga com [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer sobre marca pessoal e autopromoção como fontes de vantagem.
 - Ecoa [[A_Trinca_Jornada_da_Liberdade_Carneiro|A Trinca: Jornada da Liberdade]] de Caio Carneiro, Flávio Augusto e Joel Jota sobre responsabilidade total e mentalidade de liberdade.
 - Complementa [[Autoridade_Digital_Terra|Autoridade Digital]] de Rafael Terra sobre construir marca pessoal e reputação.

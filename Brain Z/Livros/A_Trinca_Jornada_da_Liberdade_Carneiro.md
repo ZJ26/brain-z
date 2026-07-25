@@ -46,7 +46,6 @@ A liberdade (financeira, de tempo e de escolha) não é sorte nem privilégio, m
 - Ao querer histórias e princípios de empreendedores para inspirar a própria trajetória.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne relatos e livros sobre propósito)
 - Complementa [[Projeto_Proposito_Farias|Projeto Propósito]] de Hugo Farias sobre superação, propósito e ação consistente.
 - Ecoa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink na ideia de que a disciplina é o caminho para a liberdade.
 - Dialoga com [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine sobre a mentalidade empreendedora de gerar valor e persistir.

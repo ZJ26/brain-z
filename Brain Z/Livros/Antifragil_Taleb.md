@@ -2,7 +2,7 @@
 titulo: "Antifrágil: Coisas que se Beneficiam com o Caos"
 autor: "Nassim Nicholas Taleb"
 ano: 2012
-categoria: comportamento-humano
+categoria: financas-e-investimentos
 tags: [incerteza, risco, antifragilidade, decisao, complexidade, resiliencia]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ Existe algo além do resiliente. O frágil quebra com o choque, o resiliente res
 - Para pensar robustez em saúde, finanças, carreira e negócios.
 
 ## Conexões
-- [[Vieses Cognitivos]] (índice temático que reúne os livros sobre erros de julgamento e incerteza)
 - Dialoga e diverge de [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman: ambos tratam dos limites do julgamento humano, mas Taleb ataca sobretudo o excesso de confiança em previsões e modelos.
 - Complementa [[A_Arte_da_Estatistica_Spiegelhalter|A Arte da Estatística]] de David Spiegelhalter sobre acaso, risco e os limites de prever o raro.
 - Dialoga com [[A_Psicologia_Financeira_Housel|A Psicologia Financeira]] de Morgan Housel sobre margem de segurança, sobrevivência e conviver com o imprevisível.

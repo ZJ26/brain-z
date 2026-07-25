@@ -2,7 +2,7 @@
 titulo: "O Rei dos Dividendos"
 autor: "Luiz Barsi Filho"
 ano: 2021
-categoria: financas
+categoria: financas-e-investimentos
 tags: [investimentos, dividendos, acoes, longo-prazo, financas, renda-passiva]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,7 @@ A verdadeira riqueza no mercado de ações vem de construir, com disciplina e pa
 - Ao buscar uma filosofia simples e disciplinada de investimento.
 
 ## Conexões
-- [[Vieses Cognitivos]] (índice temático que reúne os livros sobre decisão e finanças)
 - Ecoa [[O_Investidor_Inteligente_Graham|O Investidor Inteligente]] de Benjamin Graham sobre investir em valor, com disciplina e longo prazo.
 - Complementa [[A_Psicologia_Financeira_Housel|A Psicologia Financeira]] de Morgan Housel sobre paciência, juros compostos e comportamento.
 - Dialoga com [[O_Almanaque_de_Naval_Ravikant_Jorgenson|O Almanaque de Naval Ravikant]] de Eric Jorgenson sobre construir ativos que geram renda.
+- Ecoa [[Antifragil_Taleb|Antifrágil]] de Nassim Taleb sobre margem de segurança e resistir ao imprevisível no longo prazo.

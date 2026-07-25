@@ -2,7 +2,7 @@
 titulo: "O Jeito Harvard de Ser Feliz"
 autor: "Shawn Achor"
 ano: 2010
-categoria: psicologia
+categoria: desenvolvimento-pessoal
 tags: [felicidade, psicologia-positiva, bem-estar, produtividade, otimismo, habitos]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ A crença comum de que o sucesso traz felicidade está invertida. É a felicidad
 - Ao repensar a relação entre felicidade, trabalho e sucesso.
 
 ## Conexões
-- [[Felicidade e Bem-estar]] (índice temático que reúne os livros sobre bem-estar e psicologia positiva)
 - Dialoga com [[Flow_Csikszentmihalyi|Flow]] de Mihaly Csikszentmihalyi sobre os estados de engajamento pleno que sustentam bem-estar e desempenho.
 - Diverge de [[12_Regras_para_a_Vida_Peterson|12 Regras para a Vida]] de Jordan Peterson: onde Achor foca em cultivar a felicidade, Peterson desconfia da busca do bem-estar e enfatiza sentido e responsabilidade.
 - Complementa [[Foco_O_Poder_da_Unica_Coisa_Almeida|Foco: O Poder da Única Coisa]] de Vinícius Almeida no papel dos hábitos e do foco para resultados sustentáveis.

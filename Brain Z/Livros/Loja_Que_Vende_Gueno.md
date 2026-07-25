@@ -44,7 +44,7 @@ Uma loja que vende não depende só do produto ou do preço, mas da experiência
 - Quando o fluxo de pessoas não está virando vendas.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[A_Arte_de_Encantar_Clientes_Penna|A Arte de Encantar Clientes]] de Erik Penna e [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer sobre atendimento e relacionamento como motor da venda.
 - Dialoga com [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre os gatilhos sensoriais e emocionais que influenciam a compra no ponto de venda.
 - Complementa [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira na aplicação de gatilhos à experiência de compra.
+- Dialoga com [[Cliente_Feliz_Da_Lucro_Paula|Cliente Feliz Dá Lucro]] de Gisele Paula sobre a experiência do cliente como motor da venda e da recompra.

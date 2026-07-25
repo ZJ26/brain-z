@@ -2,7 +2,7 @@
 titulo: "Inteligência Emocional"
 autor: "Daniel Goleman"
 ano: 1995
-categoria: psicologia
+categoria: psicologia-e-comportamento
 tags: [inteligencia-emocional, emocoes, autoconhecimento, empatia, relacionamentos, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ O sucesso na vida e nas relações depende menos do QI e mais da inteligência e
 - Ao querer entender por que pessoas inteligentes falham em relações e decisões.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre relações e emoções)
 - Fundamenta [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg e [[Conversas_Dificeis_Stone|Conversas Difíceis]] de Stone, Patton e Heen sobre reconhecer e lidar com emoções no diálogo.
 - Complementa [[A_Coragem_de_Ser_Imperfeito_Brown|A Coragem de Ser Imperfeito]] de Brené Brown sobre vulnerabilidade e o trato com as próprias emoções.
 - Dialoga com [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman sobre a força do sistema emocional e automático nas decisões.

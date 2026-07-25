@@ -2,7 +2,7 @@
 titulo: "Como Falar em Público e Encantar as Pessoas"
 autor: "Dale Carnegie"
 ano: 1962
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [oratoria, apresentacao, comunicacao, persuasao, confianca, palestra]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ Falar bem em público não é dom de poucos, é habilidade que qualquer pessoa d
 - Quando faltar confiança para se expressar diante de um grupo.
 
 ## Conexões
-- [[Oratoria e Apresentacao]] (índice temático que reúne os livros sobre falar em público)
 - Complementa [[TED_Falar_Convencer_Emocionar_Gallo|TED: Falar, Convencer, Emocionar]] de Carmine Gallo sobre o que torna uma apresentação marcante.
 - Do mesmo autor de [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie, aplicando à fala pública o interesse genuíno pelo outro.
 - Dialoga com [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath sobre mensagens claras, concretas e memoráveis.

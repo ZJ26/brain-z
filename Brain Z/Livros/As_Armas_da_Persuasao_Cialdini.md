@@ -2,7 +2,7 @@
 titulo: "As Armas da Persuasão"
 autor: "Robert B. Cialdini"
 ano: 1984
-categoria: persuasao
+categoria: persuasao-e-influencia
 tags: [persuasao, influencia, vieses-cognitivos, comportamento, marketing, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ A maior parte das decisões humanas segue atalhos automáticos que, em geral, fu
 - Para entender a base científica por trás de muitas técnicas de persuasão.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e influência)
 - Dá fundamento científico a [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie.
 - Sustenta as táticas de [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss e os gatilhos de [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira.
 - Complementa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman e [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre os atalhos automáticos que guiam a decisão.

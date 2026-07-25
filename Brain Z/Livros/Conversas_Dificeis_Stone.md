@@ -2,7 +2,7 @@
 titulo: "Conversas Difíceis"
 autor: "Douglas Stone, Bruce Patton e Sheila Heen"
 ano: 1999
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [comunicacao, conflito, negociacao, escuta, empatia, relacionamentos]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ As conversas mais difíceis (dar feedback, discordar, tratar mágoas) fracassam 
 - Ao precisar reconstruir confiança e entendimento numa relação tensa.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre diálogo e relações)
 - Complementa [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg sobre lidar com emoções e necessidades no diálogo.
 - Do grupo de Harvard, dialoga com [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss sobre empatia e escuta em situações de alta tensão.
 - Complementa [[Comunicacao_Assertiva_Benatti|Comunicação Assertiva]] de Camila Benatti e Andrea Becker sobre se posicionar com clareza e respeito.
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie na escuta e em evitar a discussão pela razão.
+- Complementa [[Como_Fazer_Alguem_Gostar_de_Voce_em_90_Segundos_Boothman|Como Fazer Alguém Gostar de Você em 90 Segundos]] de Nicholas Boothman sobre criar conexão para baixar as defesas no diálogo.

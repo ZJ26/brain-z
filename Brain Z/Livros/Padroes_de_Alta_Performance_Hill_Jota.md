@@ -46,8 +46,8 @@ A alta performance não é talento, é padrão: um conjunto de princípios, háb
 - Como leitura motivacional que une clássico e vivência de performance.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre propósito e realização)
 - Atualiza os princípios de [[Quem_Pensa_Enriquece_Hill|Quem Pensa Enriquece]] e [[Mais_Esperto_Que_o_Diabo_Hill|Mais Esperto Que o Diabo]] de Napoleon Hill.
 - Ecoa [[Nada_Pode_Me_Ferir_Goggins|Nada Pode Me Ferir]] de David Goggins e [[Cabeca_de_Campeao_Ducasse|Cabeça de Campeão]] de François Ducasse sobre disciplina e performance mental.
 - Dialoga com [[A_Trinca_Jornada_da_Liberdade_Carneiro|A Trinca: Jornada da Liberdade]] de Caio Carneiro, Flávio Augusto e Joel Jota (coautor) sobre mentalidade e ação.
 - Complementa [[Mindset_Dweck|Mindset]] de Carol Dweck sobre crença e crescimento.
+- Complementa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink e [[Seja_Foda_Carneiro|Seja Foda!]] de Caio Carneiro sobre disciplina e atitude como base da performance.

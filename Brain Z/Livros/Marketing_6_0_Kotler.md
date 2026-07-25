@@ -2,7 +2,7 @@
 titulo: "Marketing 6.0"
 autor: "Philip Kotler, Hermawan Kartajaya e Iwan Setiawan"
 ano: 2023
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing, metaverso, imersao, tecnologia, experiencia, digital]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ O marketing 6.0, ou "metamarketing", é o marketing imersivo: a fusão das exper
 - Para preparar a marca para as gerações nativas do digital.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Conclusão da trilogia iniciada em [[Marketing_4_0_Kotler|Marketing 4.0]] e [[Marketing_5_0_Kotler|Marketing 5.0]] dos mesmos autores.
 - Dialoga com [[Liderando_o_Futuro_Gabriel|Liderando o Futuro]] de Martha Gabriel sobre tecnologia emergente e transformação.
 - Complementa [[Digital_Branding_Rowles|Digital Branding]] de Daniel Rowles sobre marca em ambientes digitais.

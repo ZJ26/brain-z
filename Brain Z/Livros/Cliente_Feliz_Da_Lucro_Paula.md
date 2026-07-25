@@ -46,7 +46,6 @@ O cliente satisfeito não é só consequência de um bom negócio, é a causa do
 - Quando o esforço estiver todo em adquirir e pouco em cuidar de quem já comprou.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[A_Arte_de_Encantar_Clientes_Penna|A Arte de Encantar Clientes]] de Erik Penna sobre encantamento e experiência do cliente.
 - Dialoga com [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer sobre relacionamento e indicação como base do resultado.
 - Ecoa [[O_Dom_da_Influencia_Spaulding|O Dom da Influência]] de Tommy Spaulding sobre relações genuínas como motor de longo prazo.

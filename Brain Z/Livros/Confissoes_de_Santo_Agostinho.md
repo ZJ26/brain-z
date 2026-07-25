@@ -2,7 +2,7 @@
 titulo: "Confissões"
 autor: "Santo Agostinho"
 ano: 397
-categoria: filosofia
+categoria: filosofia-e-espiritualidade
 tags: [filosofia, espiritualidade, autoconhecimento, fe, memoria, tempo]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ Em forma de oração autobiográfica, Agostinho narra sua trajetória do desregr
 - Como clássico fundador da autobiografia e da introspecção ocidental.
 
 ## Conexões
-- [[Filosofia]] (índice temático que reúne os clássicos do pensamento)
 - Herdeiro de [[A_Republica_Platao|A República]] de Platão na busca do bem e na primazia da alma sobre o mundo sensível, agora em chave cristã.
 - Dialoga com o estoicismo de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio e [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca sobre exame interior, desejo e uso do tempo.
 - Ecoa [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer no voltar-se para dentro e observar a inquietude da mente.
 - Ressoa com [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl na ideia de que a inquietude humana é, no fundo, busca de sentido.
+- Ressoa com a [[Bhagavad_Gita_Vyasa|Bhagavad Gita]] sobre a busca interior e a orientação da alma para algo maior.

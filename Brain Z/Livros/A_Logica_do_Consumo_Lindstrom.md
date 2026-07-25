@@ -2,7 +2,7 @@
 titulo: "A Lógica do Consumo"
 autor: "Martin Lindstrom"
 ano: 2008
-categoria: marketing
+categoria: psicologia-e-comportamento
 tags: [neuromarketing, comportamento, consumo, marketing, vieses-cognitivos, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -43,7 +43,6 @@ A maioria das decisões de compra é inconsciente e emocional, não racional. Us
 - Para reconhecer, como consumidor, as influências inconscientes sobre suas escolhas.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Aplica ao consumo os vieses de [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman e catalogados em [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli: a compra é decidida pelo pensamento rápido e emocional.
 - Fundamenta em neurociência os gatilhos usados em [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira.
 - Dialoga com [[Contagio_Berger|Contágio]] de Jonah Berger sobre imitação, prova social e o que faz o consumo se espalhar.

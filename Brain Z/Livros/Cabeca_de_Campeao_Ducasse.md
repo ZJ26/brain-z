@@ -46,8 +46,8 @@ O que separa campeões do restante não é apenas o talento, mas a preparação 
 - Ao querer levar a mentalidade esportiva de campeões para o trabalho e a vida.
 
 ## Conexões
-- [[Foco e Produtividade]] (índice temático que reúne os livros sobre atenção e desempenho)
 - Dialoga com [[Flow_Csikszentmihalyi|Flow]] de Mihaly Csikszentmihalyi sobre os estados de concentração plena no alto desempenho.
 - Ecoa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre disciplina e rotina como base dos resultados.
 - Complementa [[O_Jeito_Harvard_de_Ser_Feliz_Achor|O Jeito Harvard de Ser Feliz]] de Shawn Achor sobre o estado mental positivo como vantagem de desempenho.
 - Dialoga com os estoicos como [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio na ideia de focar no que se controla e dominar as próprias reações.
+- Ecoa [[Nada_Pode_Me_Ferir_Goggins|Nada Pode Me Ferir]] de David Goggins sobre disciplina mental e resiliência levadas ao limite.

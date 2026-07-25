@@ -2,7 +2,7 @@
 titulo: "Não Me Faça Dormir"
 autor: "Natanael Oliveira"
 ano: 2016
-categoria: copywriting
+categoria: marketing-e-marca
 tags: [copywriting, persuasao, escrita, atencao, marketing, storytelling]
 status: nao-lido
 avaliacao: 0
@@ -46,8 +46,8 @@ A pior falha de uma comunicação não é discordar do leitor, é entediá-lo. A
 - Ao querer comunicar de forma mais simples, direta e envolvente.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e texto que vende)
 - Complementa [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira, do mesmo campo do copywriting brasileiro, sobre acionar a emoção para mover à ação.
 - Dialoga com [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath sobre tornar a mensagem clara, concreta e memorável.
 - Ecoa [[TED_Falar_Convencer_Emocionar_Gallo|TED: Falar, Convencer, Emocionar]] de Carmine Gallo na ideia de captar a atenção e emocionar antes de informar.
 - Dialoga com [[Contagio_Berger|Contágio]] de Jonah Berger sobre o que torna uma mensagem interessante o bastante para prender e ser compartilhada.
+- Dialoga com [[StoryBrand_Miller|StoryBrand]] de Donald Miller sobre estruturar a mensagem para prender e conduzir o leitor.

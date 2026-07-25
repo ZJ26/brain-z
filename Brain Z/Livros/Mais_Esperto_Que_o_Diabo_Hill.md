@@ -45,8 +45,8 @@ Num diálogo alegórico com o "Diabo", Hill argumenta que a maior força que apr
 - Como leitura motivacional clássica sobre mentalidade e realização.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne relatos e livros sobre propósito e ação)
 - Dialoga com [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl sobre o propósito como força que sustenta e liberta a pessoa.
 - Ecoa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink e [[Projeto_Proposito_Farias|Projeto Propósito]] de Hugo Farias sobre disciplina, ação e superação da inércia.
 - Dialoga com [[12_Regras_para_a_Vida_Peterson|12 Regras para a Vida]] de Jordan Peterson sobre assumir responsabilidade e impor ordem à própria vida.
 - Complementa [[A_Psicologia_Financeira_Housel|A Psicologia Financeira]] de Morgan Housel no papel do comportamento e da mentalidade nos resultados de longo prazo.
+- Ecoa [[Nada_Pode_Me_Ferir_Goggins|Nada Pode Me Ferir]] de David Goggins e [[Seja_Foda_Carneiro|Seja Foda!]] de Caio Carneiro sobre disciplina e mentalidade para vencer a inércia.

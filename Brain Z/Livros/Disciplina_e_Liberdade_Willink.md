@@ -48,8 +48,7 @@ A disciplina não aprisiona, liberta. Quanto mais autodisciplina você impõe a 
 - Para uma dose direta e sem rodeios de mentalidade de ação e autocontrole.
 
 ## Conexões
-- [[Disciplina e Habitos]] (índice temático que reúne os livros sobre autocontrole e rotina)
 - Complementa [[Nada_Pode_Me_Ferir_Goggins|Nada Pode Me Ferir]] de David Goggins, que leva a mesma ideia de vencer a mente fraca ao extremo, por uma via mais autobiográfica.
 - Aprofunda a mentalidade de [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] (Extreme Ownership) do próprio Jocko Willink, aplicando o princípio da liderança à vida pessoal.
-- Dialoga com [[Hábitos Atômicos]] de James Clear: onde Clear foca no design de sistemas e pequenas mudanças, Willink foca na força de vontade e na ação bruta.
 - Ecoa a filosofia estoica de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio sobre autodomínio e aceitação do que não se controla.
+- Complementa [[Padroes_de_Alta_Performance_Hill_Jota|Padrões de Alta Performance]] de Napoleon Hill e Joel Jota sobre disciplina como base do desempenho.

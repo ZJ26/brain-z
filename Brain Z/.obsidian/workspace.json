@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd4131c9dfe5adad",
+        "id": "cf23ce8476a1db8c",
         "type": "tabs",
         "children": [
           {
-            "id": "44fd7e651f968101",
+            "id": "75e01cf5d294dcc6",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Merce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,43 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "297500841c86941e",
+  "active": "75e01cf5d294dcc6",
   "lastOpenFiles": [
-    "Livros/Receita_Previsivel_Ross.md",
-    "Livros/Receita_Previsivel_Ross.md.tmp.21580.07006f7fc6d0",
-    "Vendas.md",
-    "Livros/Quem_Pensa_Enriquece_Hill.md",
-    "Livros/Quem_Pensa_Enriquece_Hill.md.tmp.21580.7a645b3d664b",
-    "Livros/Os_Segredos_do_Lobo_Belfort.md",
-    "Livros/Os_Quatro_Compromissos_Ruiz.md",
-    "Livros/Organizacoes_Exponenciais_Ismail.md",
-    "Livros/O_Vendedor_Estoico_Brito.md",
-    "Livros/O_Rei_dos_Dividendos_Barsi.md",
-    "Livros/O_Principe_Maquiavel.md",
-    "Livros/O_Poder_da_Escolha_Certa_Barker.md",
-    "Livros/O_Poder_da_Acao_Vieira.md",
-    "Livros/O_Peregrino_Bunyan.md",
-    "Livros/Prospeccao_Fanatica_Blount.md",
-    "Livros/Prospeccao_Fanatica_Blount.md.tmp.21580.510796764995",
-    "Livros/Ponto_de_Inflexao_Silva.md",
-    "Livros/Ponto_de_Inflexao_Silva.md.tmp.21580.38e643b35947",
-    "Livros/Poder_Sem_Limites_Robbins.md",
-    "Livros/Poder_Sem_Limites_Robbins.md.tmp.21580.31854ba532e7",
-    "Livros/Poder_e_Manipulacao_Petry.md",
-    "Livros/Poder_e_Manipulacao_Petry.md.tmp.21580.8bc832240423",
-    "Livros/Palavras_Magicas_Berger.md",
-    "Livros/Palavras_Magicas_Berger.md.tmp.21580.efa30124f610",
-    "Livros/O_Almanaque_de_Naval_Ravikant_Jorgenson.md",
-    "Livros/Padroes_de_Alta_Performance_Hill_Jota.md",
-    "Livros/Os_Segredos_do_Lobo_Belfort.md.tmp.21580.ea09f970c0dd",
-    "Livros/O_Vendedor_Estoico_Brito.md.tmp.7420.071ac42daf27",
-    "Livros/Marketing_6_0_Kotler.md",
-    "Livros/O_Poder_da_Acao_Vieira.md.tmp.7420.2ffddaad1a5b",
-    "Livros/O_Paladar_Nao_Retrocede_Ferreirinha.md",
-    "Livros/O_Mensageiro_Milionario_Burchard.md",
-    "Livros/O_Marketing_e_a_Arte_do_Luxo_Moraes.md",
-    "Livros/O_Lado_Dificil_das_Situacoes_Dificeis_Horowitz.md",
-    "Livros/O_Investidor_Inteligente_Graham.md",
-    "Livros/O_Estilo_Startup_Ries.md"
+    "Livros/Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss.md",
+    "Livros/O_Dom_da_Influencia_Spaulding.md",
+    "Livros/Cliente_Feliz_Da_Lucro_Paula.md",
+    "Livros/Guiados_pelo_Encantamento_Michelli.md",
+    "Livros/A_Republica_Platao.md",
+    "Livros/A_Vaca_Roxa_Godin.md",
+    "Livros/Rapido_e_Devagar_Kahneman.md",
+    "Livros/Hooked_Eyal.md",
+    "Livros/Inteligencia_Emocional_Goleman.md",
+    "Livros/MOC Biblioteca.md",
+    "Livros/MOC Filosofia e Espiritualidade.md",
+    "Livros/MOC Negocios Lideranca e Gestao.md",
+    "Livros/MOC Vendas.md",
+    "Livros/MOC Psicologia e Comportamento.md",
+    "Livros/MOC Poder e Estrategia.md",
+    "Livros/MOC Persuasao e Influencia.md",
+    "Livros/MOC Marketing e Marca.md",
+    "Livros/MOC Financas e Investimentos.md",
+    "Livros/MOC Desenvolvimento Pessoal.md",
+    "Livros/MOC Comunicacao e Oratoria.md",
+    "MOC Psicologia e Comportamento.md",
+    "MOC Poder e Estrategia.md",
+    "MOC Persuasao e Influencia.md",
+    "MOC Marketing e Marca.md",
+    "MOC Financas e Investimentos.md",
+    "MOC Filosofia e Espiritualidade.md",
+    "Livros/Uma_Vida_com_Propositos_Warren.md.tmp.21580.8b7252429ba3",
+    "Livros/Trabalhe_4_Horas_por_Semana_Ferriss.md.tmp.21580.18ae16e3ea3a",
+    "Livros/TED_Talks_Anderson.md.tmp.21580.fc7fd91976dd",
+    "Livros/Storytelling_com_Dados_Knaflic.md.tmp.21580.c566ac61581c",
+    "Livros/StoryBrand_Miller.md.tmp.21580.8202af9ac18d",
+    "Livros/Startup_Livingston.md.tmp.21580.921fcd12e5b9",
+    "Livros/Start_Acuff.md.tmp.21580.cbf005f72e43",
+    "Livros/Seja_Inesquecivel_Kovalick.md.tmp.21580.aa4f60319576",
+    "Livros/Seja_Foda_Carneiro.md.tmp.21580.1d55db5fbedb",
+    "Livros/Scrum_Sutherland.md.tmp.21580.e617268fc25b"
   ]
 }

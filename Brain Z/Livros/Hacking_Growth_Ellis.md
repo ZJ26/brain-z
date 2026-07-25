@@ -2,7 +2,7 @@
 titulo: "Hacking Growth"
 autor: "Sean Ellis e Morgan Brown"
 ano: 2017
-categoria: crescimento
+categoria: negocios-lideranca-e-gestao
 tags: [crescimento, marketing, experimentacao, dados, produto, retencao]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Crescimento não é fruto de lampejos geniais nem de grandes campanhas isoladas,
 - Ao montar ou organizar um time de crescimento com foco em resultado mensurável.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Complementa [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail: onde Ismail desenha a estrutura exponencial, Ellis dá o método prático de experimentação que a alimenta.
 - Complementa [[Contagio_Berger|Contágio]] de Jonah Berger sobre transformar usuários em canal por meio de indicação e boca a boca.
 - Dialoga com [[Hit_Makers_Thompson|Hit Makers]] de Derek Thompson sobre distribuição e os mecanismos que fazem um produto crescer.

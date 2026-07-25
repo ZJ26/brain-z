@@ -46,7 +46,6 @@ A vida que temos é resultado das crenças e das ações que sustentamos. Ao ide
 - Quando faltar direção e disciplina para agir.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre propósito e ação)
 - Ecoa [[Mais_Esperto_Que_o_Diabo_Hill|Mais Esperto Que o Diabo]] de Napoleon Hill sobre sair da inércia e agir com propósito definido.
 - Dialoga com [[A_Trinca_Jornada_da_Liberdade_Carneiro|A Trinca: Jornada da Liberdade]] de Caio Carneiro e outros sobre autorresponsabilidade e mentalidade.
 - Complementa [[Mindset_Dweck|Mindset]] de Carol Dweck sobre o papel das crenças no que realizamos.

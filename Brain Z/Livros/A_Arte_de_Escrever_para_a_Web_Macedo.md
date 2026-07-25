@@ -2,7 +2,7 @@
 titulo: "A Arte de Escrever para a Web"
 autor: "Paulo Macedo"
 ano: 2016
-categoria: copywriting
+categoria: marketing-e-marca
 tags: [escrita, web, conteudo, seo, copywriting, marketing]
 status: nao-lido
 avaliacao: 0
@@ -48,7 +48,6 @@ Escrever para a web é diferente de escrever para o papel. O leitor online varre
 - Quando um texto está denso demais e o leitor online abandona antes do fim.
 
 ## Conexões
-- [[Persuasao e Copywriting]] (índice temático que reúne os livros sobre persuasão e texto que vende)
 - Complementa [[Nao_Me_Faca_Dormir_Oliveira|Não Me Faça Dormir]] de Natanael Oliveira sobre prender a atenção do leitor, aqui aplicado ao ambiente da web.
 - Complementa [[Palavras_que_Vendem_Milhoes_Ferreira|Palavras que Vendem Milhões]] e [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira, trazendo a persuasão do copywriting para o texto online e o SEO.
 - Dialoga com [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath sobre clareza, concretude e mensagem memorável.

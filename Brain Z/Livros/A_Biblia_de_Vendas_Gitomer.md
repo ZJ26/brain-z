@@ -47,7 +47,6 @@ As pessoas não gostam que lhes vendam, mas adoram comprar. Vender bem é menos 
 - Quando quiser gerar indicações e clientes recorrentes.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[A_Arte_de_Encantar_Clientes_Penna|A Arte de Encantar Clientes]] de Erik Penna sobre atitude e experiência do cliente como base da venda.
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie na ideia de que gostar e confiar precede o negócio.
 - Dialoga com [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss no uso da escuta e da empatia para conduzir o outro à decisão.

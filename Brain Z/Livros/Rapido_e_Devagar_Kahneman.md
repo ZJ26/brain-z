@@ -2,7 +2,7 @@
 titulo: "Rápido e Devagar: Duas Formas de Pensar"
 autor: "Daniel Kahneman"
 ano: 2011
-categoria: comportamento-humano
+categoria: psicologia-e-comportamento
 tags: [vieses-cognitivos, heuristicas, tomada-de-decisao, aversao-a-perda, psicologia, julgamento]
 status: nao-lido
 avaliacao: 0
@@ -48,8 +48,7 @@ A mente humana opera por dois sistemas: um rápido, automático e intuitivo, e o
 - Ao interpretar resultados extremos e evitar atribuir a causas o que é acaso e reversão à média.
 
 ## Conexões
-- [[Vieses Cognitivos]] (índice temático que reúne os livros sobre erros de julgamento)
-- Base para [[Nudge]] de Thaler e Sunstein, que aplica esses vieses ao desenho de escolhas e políticas.
 - Complementa [[A_Arte_da_Estatistica_Spiegelhalter|A Arte da Estatística]] de David Spiegelhalter, que corrige com método os mesmos erros de intuição (probabilidade, reversão à média) que Kahneman diagnostica.
-- Dialoga com [[Previsivelmente Irracional]] de Dan Ariely sobre os padrões sistemáticos do comportamento humano, por uma via mais experimental.
-- Diverge em parte de [[Rápido e Intuitivo]] (Gut Feelings) de Gerd Gigerenzer, que defende que a intuição e as heurísticas costumam acertar mais do que Kahneman sugere.
+- Fundamenta [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini e [[Gatilhos_Mentais_Ferreira|Gatilhos Mentais]] de Gustavo Ferreira, cujos gatilhos exploram o pensamento rápido.
+- Dialoga com [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli, que cataloga os mesmos vieses em verbetes curtos.
+- Complementa [[A_Logica_do_Consumo_Lindstrom|A Lógica do Consumo]] de Martin Lindstrom sobre a decisão de compra automática e emocional.

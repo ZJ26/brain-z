@@ -2,7 +2,7 @@
 titulo: "A Arte da Estatística"
 autor: "David Spiegelhalter"
 ano: 2019
-categoria: estatistica
+categoria: psicologia-e-comportamento
 tags: [estatistica, dados, pensamento-critico, probabilidade, causalidade, incerteza, comunicacao-de-dados]
 status: nao-lido
 avaliacao: 0
@@ -47,8 +47,8 @@ Estatística é a arte de aprender com os dados, e não apenas um conjunto de f�
 - Sempre que for preciso raciocinar sobre risco, probabilidade e incerteza de forma honesta.
 
 ## Conexões
-- [[Pensamento Estatistico]] (índice temático que reúne os livros sobre raciocínio com dados)
 - Complementa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman, que explica por que a intuição humana falha justamente nos pontos (probabilidade, regressão à média) que a estatística corrige.
-- Dialoga com [[Como Mentir com Estatística]] de Darrell Huff: onde Huff foca nas armadilhas e enganos, Spiegelhalter foca no uso honesto e construtivo dos mesmos princípios.
-- Complementa [[O Andar do Bêbado]] de Leonard Mlodinow sobre o papel do acaso e da aleatoriedade na leitura de resultados.
 - Diverge em ênfase de manuais de estatística tradicionais, que partem da fórmula: aqui o ponto de partida é o problema e a comunicação, com a matemática a serviço disso.
+- Complementa [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli sobre os erros de intuição diante de probabilidade e acaso.
+- Fundamenta [[Storytelling_com_Dados_Knaflic|Storytelling com Dados]] de Cole Nussbaumer Knaflic sobre comunicar números com honestidade e clareza.
+- Dialoga com [[Antifragil_Taleb|Antifrágil]] de Nassim Taleb sobre incerteza, risco e os limites de prever o raro.

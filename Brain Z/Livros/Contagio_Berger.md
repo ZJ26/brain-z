@@ -2,7 +2,7 @@
 titulo: "Contágio: Por que as Coisas Pegam"
 autor: "Jonah Berger"
 ano: 2013
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing, viralizacao, boca-a-boca, comportamento, ideias, compartilhamento]
 status: nao-lido
 avaliacao: 0
@@ -46,8 +46,7 @@ O que faz uma ideia, um produto ou um comportamento se espalhar não é sorte, p
 - Ao construir uma narrativa em torno de um produto para que ele viaje junto com a história.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Complementa [[Ideias_que_Colam_Heath|Ideias que Colam]] de Chip e Dan Heath: uma foca em fazer a ideia grudar na memória, a outra em fazê-la se espalhar entre pessoas.
 - Dialoga com [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin sobre ser notável o bastante para gerar boca a boca.
-- Complementa [[O Ponto da Virada]] de Malcolm Gladwell sobre como ideias atingem massa crítica e viram epidemia social.
 - Ecoa [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman no papel da emoção e dos gatilhos sobre o comportamento automático.
+- Complementa [[Palavras_Magicas_Berger|Palavras Mágicas]] do próprio Jonah Berger sobre a linguagem que faz uma mensagem circular.

@@ -2,7 +2,7 @@
 titulo: "Dedique-se de Coração"
 autor: "Howard Schultz"
 ano: 1997
-categoria: lideranca
+categoria: negocios-lideranca-e-gestao
 tags: [empreendedorismo, lideranca, proposito, marca, cultura, negocios]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ Contando como transformou a Starbucks de uma pequena loja de cafés numa marca g
 - Ao buscar inspiração em uma trajetória de persistência empreendedora.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar e inspirar)
 - Ilustra na prática [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek: a Starbucks liderada por um propósito claro, não pelo produto.
 - Dialoga com [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin e [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark sobre marca com significado e experiência memorável.
 - Complementa [[Cliente_Feliz_Da_Lucro_Paula|Cliente Feliz Dá Lucro]] de Gisele Paula sobre a experiência do cliente como motor do negócio.
 - Ecoa [[O_Dom_da_Influencia_Spaulding|O Dom da Influência]] de Tommy Spaulding no cuidado genuíno com pessoas como base de resultados.
+- Dialoga com [[Ponto_de_Inflexao_Silva|Ponto de Inflexão]] de Flávio Augusto sobre construir um negócio com propósito e momentos de virada.

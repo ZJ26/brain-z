@@ -2,7 +2,7 @@
 titulo: "As Upstarts"
 autor: "Brad Stone"
 ano: 2017
-categoria: empreendedorismo
+categoria: negocios-lideranca-e-gestao
 tags: [empreendedorismo, startups, tecnologia, inovacao, negocios, disrupcao]
 status: nao-lido
 avaliacao: 0
@@ -45,8 +45,8 @@ Contando as histórias paralelas de Uber e Airbnb, o livro mostra como duas star
 - Como estudo de caso sobre ambição, cultura e os riscos do crescimento acelerado.
 
 ## Conexões
-- [[Inovacao e Crescimento]] (índice temático que reúne os livros sobre inovação e escala)
 - Ilustra na prática [[Organizacoes_Exponenciais_Ismail|Organizações Exponenciais]] de Salim Ismail: Uber e Airbnb alavancam ativos que não possuem.
 - Dialoga com [[A_Startup_Enxuta_Ries|A Startup Enxuta]] de Eric Ries e [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine sobre testar, adaptar e crescer sob incerteza.
 - Complementa [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis sobre a obsessão por escala e crescimento.
 - Ecoa [[A_Estrategia_do_Oceano_Azul_Kim|A Estratégia do Oceano Azul]] de Kim e Mauborgne na criação de mercados novos em vez de disputar os existentes.
+- Dialoga com [[A_Arte_de_Comecar_Kawasaki|A Arte de Começar]] de Guy Kawasaki e [[Startup_Livingston|Startup]] de Jessica Livingston sobre os primeiros passos de startups que viraram gigantes.

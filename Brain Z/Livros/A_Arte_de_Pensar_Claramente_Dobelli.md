@@ -2,7 +2,7 @@
 titulo: "A Arte de Pensar Claramente"
 autor: "Rolf Dobelli"
 ano: 2011
-categoria: comportamento-humano
+categoria: psicologia-e-comportamento
 tags: [vieses-cognitivos, heuristicas, tomada-de-decisao, pensamento-critico, psicologia, julgamento]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,7 @@ Não erramos ao pensar por burrice, mas porque a mente carrega falhas sistemáti
 - Ao interpretar resultados e desconfiar de narrativas causais fáceis e do acaso disfarçado de padrão.
 
 ## Conexões
-- [[Vieses Cognitivos]] (índice temático que reúne os livros sobre erros de julgamento)
 - Popularização de [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman: Dobelli cataloga em verbetes curtos os mesmos vieses que Kahneman fundamenta com pesquisa.
 - Complementa [[A_Arte_da_Estatistica_Spiegelhalter|A Arte da Estatística]] de David Spiegelhalter sobre os erros de probabilidade, acaso e reversão à média que o método estatístico corrige.
 - Dialoga com [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer: onde Dobelli mapeia falhas de raciocínio, Schopenhauer mostra como explorá-las de propósito no debate.
+- Aplica-se às finanças em [[O_Investidor_Inteligente_Graham|O Investidor Inteligente]] de Benjamin Graham e [[A_Psicologia_Financeira_Housel|A Psicologia Financeira]] de Morgan Housel.

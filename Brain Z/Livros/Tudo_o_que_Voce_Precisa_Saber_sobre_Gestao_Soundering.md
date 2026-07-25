@@ -2,7 +2,7 @@
 titulo: "Tudo o que Você Precisa Saber sobre Gestão"
 autor: "Stephen Soundering"
 ano: 2015
-categoria: gestao
+categoria: negocios-lideranca-e-gestao
 tags: [gestao, lideranca, times, delegacao, produtividade, tomada-de-decisao]
 status: nao-lido
 avaliacao: 0
@@ -47,7 +47,7 @@ Gestão é um conjunto de práticas que pode ser aprendido, não um dom inato. P
 - Para organizar a rotina de liderança de um time em torno de metas claras.
 
 ## Conexões
-- [[Lideranca]] (índice temático que reúne os livros sobre liderar times)
 - Complementa [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] de Jocko Willink, que aprofunda a responsabilidade do líder pelo resultado da equipe.
 - Complementa [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] de Jocko Willink no equilíbrio entre cobrar resultados e cuidar das pessoas.
 - Dialoga com [[Foco_O_Poder_da_Unica_Coisa_Almeida|Foco: O Poder da Única Coisa]] de Vinícius Almeida sobre priorizar o que importa em vez de se dispersar.
+- Dialoga com [[Scrum_Sutherland|Scrum]] de Jeff Sutherland sobre organizar o trabalho de times, aqui por uma via ágil e iterativa.

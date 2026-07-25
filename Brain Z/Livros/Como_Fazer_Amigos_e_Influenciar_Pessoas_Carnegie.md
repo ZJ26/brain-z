@@ -2,7 +2,7 @@
 titulo: "Como Fazer Amigos e Influenciar Pessoas"
 autor: "Dale Carnegie"
 ano: 1936
-categoria: relacionamentos
+categoria: persuasao-e-influencia
 tags: [relacionamentos, persuasao, influencia, comunicacao, lideranca, empatia]
 status: nao-lido
 avaliacao: 0
@@ -50,8 +50,8 @@ As pessoas são movidas por emoção, vaidade e pelo desejo de se sentirem impor
 - Para liderar e influenciar sem impor autoridade nem ordens.
 
 ## Conexões
-- [[Relacionamentos e Influencia]] (índice temático que reúne os livros sobre lidar com pessoas)
 - Base clássica de [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini, que dá fundamento científico a muitos dos princípios intuitivos de Carnegie.
 - Dialoga com [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg: ambos valorizam empatia e escuta, mas Carnegie foca em influenciar e Rosenberg em conectar sem manipular.
 - Complementa [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss no uso da empatia e da escuta para levar o outro à sua posição.
 - Contraponto a [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer: onde Schopenhauer ensina a vencer a discussão, Carnegie ensina justamente a evitá-la.
+- Dialoga com [[Palavras_Magicas_Berger|Palavras Mágicas]] de Jonah Berger sobre como pequenas escolhas de linguagem aumentam a influência.

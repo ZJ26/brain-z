@@ -2,7 +2,7 @@
 titulo: "A Psicologia Financeira"
 autor: "Morgan Housel"
 ano: 2020
-categoria: financas
+categoria: financas-e-investimentos
 tags: [financas, comportamento, dinheiro, investimentos, vieses-cognitivos, decisao]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Lidar bem com dinheiro tem menos a ver com inteligência ou conhecimento técnic
 - Ao definir o que é "suficiente" e o que você realmente busca com dinheiro.
 
 ## Conexões
-- [[Vieses Cognitivos]] (índice temático que reúne os livros sobre erros de julgamento)
 - Aplica às finanças os vieses de [[Rapido_e_Devagar_Kahneman|Rápido e Devagar]] de Daniel Kahneman e de [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli.
 - Dialoga com [[Antifragil_Taleb|Antifrágil]] de Nassim Taleb sobre risco, incerteza e a importância de sobreviver ao imprevisível.
 - Complementa [[A_Arte_da_Estatistica_Spiegelhalter|A Arte da Estatística]] de David Spiegelhalter sobre acaso, risco e a leitura honesta de resultados.

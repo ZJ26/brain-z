@@ -2,7 +2,7 @@
 titulo: "Como se Tornar Sobrenatural"
 autor: "Joe Dispenza"
 ano: 2017
-categoria: espiritualidade
+categoria: filosofia-e-espiritualidade
 tags: [espiritualidade, meditacao, autoconhecimento, mente-e-corpo, consciencia, neurociencia]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,7 @@ Segundo o autor, é possível ir além dos limites do corpo, do ambiente e do te
 - Ao explorar visões de mente e consciência que vão além da abordagem estritamente científica.
 
 ## Conexões
-- [[Espiritualidade e Consciencia]] (índice temático que reúne os livros sobre autoconhecimento interior)
 - Complementa [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer sobre desidentificar-se dos pensamentos e acessar uma consciência mais ampla, por uma via também meditativa.
 - Dialoga com a [[Bhagavad_Gita_Vyasa|Bhagavad Gita]] na ideia de uma consciência que transcende o corpo, o tempo e a identidade passageira.
 - Diverge de [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli e de [[A_Arte_da_Estatistica_Spiegelhalter|A Arte da Estatística]] de David Spiegelhalter, que pedem evidência e ceticismo diante de afirmações extraordinárias como as do livro.
+- Dialoga com [[O_Poder_da_Escolha_Certa_Barker|O Poder da Escolha Certa]] de Raymond Charles Barker e [[Poder_Sem_Limites_Robbins|Poder Sem Limites]] de Tony Robbins sobre a ideia de que a mente molda a realidade (leia com o mesmo espírito crítico).

@@ -2,7 +2,7 @@
 titulo: "Comunicação Assertiva"
 autor: "Camila Benatti e Andrea Becker"
 ano: 2021
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [comunicacao, assertividade, relacionamentos, escuta, conflito, empatia]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,8 @@ Assertividade é o ponto de equilíbrio entre a passividade e a agressividade: d
 - Quando mal-entendidos e falta de clareza estiverem prejudicando relações.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre diálogo e relações)
 - Complementa [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg sobre expressar necessidades e sentimentos sem agredir.
 - Dialoga com [[Conversas_Dificeis_Stone|Conversas Difíceis]] de Stone, Patton e Heen sobre conduzir diálogos de alto risco emocional.
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie no respeito e na escuta como base da boa comunicação.
+- Complementa [[Inteligencia_Emocional_Goleman|Inteligência Emocional]] de Daniel Goleman sobre reconhecer e regular as próprias emoções antes de responder.
+- Complementa [[Como_Fazer_Alguem_Gostar_de_Voce_em_90_Segundos_Boothman|Como Fazer Alguém Gostar de Você em 90 Segundos]] de Nicholas Boothman sobre presença e conexão que sustentam uma comunicação eficaz.

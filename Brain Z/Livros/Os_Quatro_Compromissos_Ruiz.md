@@ -2,7 +2,7 @@
 titulo: "Os Quatro Compromissos"
 autor: "Don Miguel Ruiz"
 ano: 1997
-categoria: espiritualidade
+categoria: filosofia-e-espiritualidade
 tags: [autoconhecimento, sabedoria, espiritualidade, liberdade, crencas, relacionamentos]
 status: nao-lido
 avaliacao: 0
@@ -42,8 +42,8 @@ Baseado na sabedoria tolteca, o livro propõe que grande parte do nosso sofrimen
 - Como guia prático de sabedoria para a vida cotidiana.
 
 ## Conexões
-- [[Espiritualidade e Consciencia]] (índice temático que reúne os livros sobre autoconhecimento interior)
 - Ecoa [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer sobre desidentificar-se das crenças e da voz interior.
 - Dialoga com a filosofia estoica de [[Meditacoes_Marco_Aurelio|Meditações]] de Marco Aurélio sobre não se abalar com o juízo alheio.
 - Complementa [[Comunicacao_Nao_Violenta_Rosenberg|Comunicação Não Violenta]] de Marshall Rosenberg sobre a palavra e a comunicação sem violência.
 - Ressoa com [[O_Ego_E_Seu_Inimigo_Holiday|O Ego É Seu Inimigo]] de Ryan Holiday sobre não levar tudo para o lado pessoal e soltar o ego.
+- Dialoga com [[Mindset_Dweck|Mindset]] de Carol Dweck sobre rever crenças limitantes que adotamos sem questionar.

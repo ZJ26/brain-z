@@ -2,7 +2,7 @@
 titulo: "Foco: O Poder da Única Coisa"
 autor: "Vinícius Almeida"
 ano: 2021
-categoria: produtividade
+categoria: desenvolvimento-pessoal
 tags: [foco, produtividade, prioridades, proposito, habitos, gestao-do-tempo]
 status: nao-lido
 avaliacao: 0
@@ -46,8 +46,7 @@ Foco é uma habilidade que pode ser treinada e afiada, não um dom nem uma quest
 - Ao querer reorganizar a mente e o tempo em busca de resultados mais consistentes.
 
 ## Conexões
-- [[Foco e Produtividade]] (índice temático que reúne os livros sobre atenção e prioridades)
-- Dialoga com [[A Única Coisa]] (The ONE Thing) de Gary Keller, do mesmo campo, sobre concentrar energia na tarefa mais importante de cada vez.
-- Complementa [[Hábitos Atômicos]] de James Clear na ideia de que resultados vêm de hábitos e sistemas, não de força de vontade.
 - Ecoa [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre estruturar a rotina para conquistar liberdade e resultados.
-- Dialoga com [[Trabalho Focado]] (Deep Work) de Cal Newport sobre proteger a atenção das distrações para produzir com profundidade.
+- Ecoa [[Trabalhe_4_Horas_por_Semana_Ferriss|Trabalhe 4 Horas por Semana]] de Timothy Ferriss sobre o princípio 80/20 e cortar o supérfluo.
+- Complementa [[Scrum_Sutherland|Scrum]] de Jeff Sutherland sobre priorização e foco contra a multitarefa.
+- Dialoga com [[Flow_Csikszentmihalyi|Flow]] de Mihaly Csikszentmihalyi sobre a concentração plena numa única tarefa.

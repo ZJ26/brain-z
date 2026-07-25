@@ -2,7 +2,7 @@
 titulo: "Meditações"
 autor: "Marco Aurélio"
 ano: 180
-categoria: filosofia
+categoria: filosofia-e-espiritualidade
 tags: [estoicismo, filosofia, autocontrole, aceitacao, presente, morte]
 status: nao-lido
 avaliacao: 0
@@ -49,7 +49,6 @@ Escrito por um imperador romano como um diário particular de lembretes a si mes
 - Para reflexão sobre finitude, dever e o que realmente importa.
 
 ## Conexões
-- [[Estoicismo]] (índice temático que reúne os livros da tradição estoica)
 - Aplica na prática a filosofia de [[A_Arte_de_Viver_Epicteto|A Arte de Viver]] de Epicteto, mestre que influenciou diretamente Marco Aurélio.
 - Complementa [[Sobre_a_Brevidade_da_Vida_Seneca|Sobre a Brevidade da Vida]] de Sêneca, o terceiro grande estoico, sobre o uso sábio do tempo.
 - Dialoga com [[A_Alma_Indomavel_Singer|A Alma Indomável]] de Michael A. Singer sobre a cidadela interior e o não se identificar com o externo.

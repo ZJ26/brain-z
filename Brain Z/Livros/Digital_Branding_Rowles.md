@@ -2,7 +2,7 @@
 titulo: "Digital Branding"
 autor: "Daniel Rowles"
 ano: 2014
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marca, marketing-digital, branding, conteudo, reputacao, estrategia]
 status: nao-lido
 avaliacao: 0
@@ -45,7 +45,6 @@ No ambiente digital, a marca não é mais o que a empresa diz que é, mas o que 
 - Ao definir estratégia de marca antes de escolher ferramentas.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Complementa [[O_Heroi_e_o_Fora_da_Lei_Mark|O Herói e o Fora da Lei]] de Margaret Mark sobre identidade e significado de marca, aqui no terreno digital.
 - Dialoga com [[Autoridade_Digital_Terra|Autoridade Digital]] de Rafael Terra e [[Cientista_do_Marketing_Digital_Lippert|Cientista do Marketing Digital]] de Dener Lippert sobre presença e reputação online.
 - Ecoa [[A_Vaca_Roxa_Godin|A Vaca Roxa]] de Seth Godin na diferenciação como base da marca.

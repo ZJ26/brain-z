@@ -2,7 +2,7 @@
 titulo: "O Peregrino"
 autor: "John Bunyan"
 ano: 1678
-categoria: espiritualidade
+categoria: filosofia-e-espiritualidade
 tags: [alegoria, fe, jornada, cristianismo, proposito, superacao]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Em forma de alegoria, Bunyan narra a jornada de Cristão, que abandona a Cidade 
 - Como clássico da literatura alegórica e espiritual.
 
 ## Conexões
-- [[Espiritualidade e Consciencia]] (índice temático que reúne os livros sobre a jornada interior)
 - Ecoa [[Confissoes_de_Santo_Agostinho|Confissões]] de Santo Agostinho na jornada da alma rumo a Deus e no peso da culpa que se busca soltar.
 - Dialoga com [[Em_Busca_de_Sentido_Frankl|Em Busca de Sentido]] de Viktor Frankl sobre o sentido que sustenta a pessoa na travessia do sofrimento.
 - Ressoa com a [[Bhagavad_Gita_Vyasa|Bhagavad Gita]] na ideia da vida como caminho de dever e superação espiritual.

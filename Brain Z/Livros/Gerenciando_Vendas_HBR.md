@@ -46,8 +46,8 @@ Gerir vendas é mais do que cobrar metas: é construir processo, desenvolver pes
 - Quando o resultado depende demais de poucos vendedores.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Complementa [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer trazendo o olhar de gestão sobre a técnica individual de vender.
 - Dialoga com [[Lideranca_e_Gestao_de_Alta_Performance_em_Vendas_Rabelo|Liderança e Gestão de Alta Performance em Vendas]] de Camely Rabelo e Ricardo Okino sobre liderar times comerciais.
 - Complementa [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] de Jocko Willink no equilíbrio entre cobrar resultados e desenvolver pessoas.
 - Ecoa [[Hacking_Growth_Ellis|Hacking Growth]] de Sean Ellis no uso de dados e funil para melhorar resultados.
+- Dialoga com [[Tudo_o_que_Voce_Precisa_Saber_sobre_Gestao_Soundering|Tudo o que Você Precisa Saber sobre Gestão]] de Stephen Soundering e [[Scrum_Sutherland|Scrum]] de Jeff Sutherland sobre gerir times e processos.

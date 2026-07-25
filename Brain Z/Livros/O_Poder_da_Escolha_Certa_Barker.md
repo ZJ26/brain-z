@@ -45,7 +45,6 @@ A vida de cada pessoa é resultado das escolhas mentais que ela faz. Segundo o a
 - Como leitura da tradição do Novo Pensamento, com senso crítico.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre mentalidade e ação)
 - Dialoga com [[Mais_Esperto_Que_o_Diabo_Hill|Mais Esperto Que o Diabo]] de Napoleon Hill e [[O_Poder_da_Acao_Vieira|O Poder da Ação]] de Paulo Vieira sobre crenças, mente e realização.
 - Complementa [[Mindset_Dweck|Mindset]] de Carol Dweck sobre como as crenças moldam a experiência.
 - Diverge de [[A_Arte_de_Pensar_Claramente_Dobelli|A Arte de Pensar Claramente]] de Rolf Dobelli, que pede ceticismo diante de afirmações sobre o "poder do pensamento".

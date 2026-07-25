@@ -2,7 +2,7 @@
 titulo: "As 33 Estratégias da Guerra"
 autor: "Robert Greene"
 ano: 2006
-categoria: estrategia
+categoria: poder-e-estrategia
 tags: [estrategia, poder, conflito, guerra, tatica, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ A vida é um campo de batalha permanente, e o pensamento estratégico da guerra 
 - Para entender a dinâmica de poder e a psicologia por trás de confrontos, negociações e competições.
 
 ## Conexões
-- [[Estrategia e Poder]] (índice temático que reúne os livros sobre estratégia, conflito e poder)
 - Complementa [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer no pragmatismo amoral: ambos tratam de vantagem e vitória mais que de virtude.
 - Complementa [[A_Arte_de_Ter_Razao_Schopenhauer|A Arte de Ter Razão]] de Schopenhauer, que aplica a mesma lógica de manobras e estratagemas ao terreno específico do debate.
 - Dialoga com [[Responsabilidade_Extrema_Willink|Responsabilidade Extrema]] e [[A_Dicotomia_da_Lideranca_Willink|A Dicotomia da Liderança]] de Jocko Willink: onde Greene teoriza a estratégia militar a partir da história, Willink a traduz do combate real para a liderança.

@@ -2,7 +2,7 @@
 titulo: "Manual de Persuasão do FBI"
 autor: "Jack Schafer e Marvin Karlins"
 ano: 2015
-categoria: comunicacao
+categoria: persuasao-e-influencia
 tags: [persuasao, rapport, relacionamentos, influencia, comunicacao, confianca]
 status: nao-lido
 avaliacao: 0
@@ -47,7 +47,6 @@ Fazer com que alguém goste de você e confie em você é uma habilidade que seg
 - Quando precisar construir confiança de forma rápida e natural.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre relações e influência)
 - Complementa [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini nos princípios de afeição e reciprocidade.
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie sobre fazer o outro se sentir importante.
 - Dialoga com [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus e [[Como_Fazer_Alguem_Gostar_de_Voce_em_90_Segundos_Boothman|Como Fazer Alguém Gostar de Você em 90 Segundos]] de Nicholas Boothman sobre rapport e leitura de sinais.

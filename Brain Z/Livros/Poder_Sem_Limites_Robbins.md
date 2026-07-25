@@ -46,7 +46,6 @@ O que separa quem alcança resultados extraordinários dos demais não é sorte,
 - Como base de técnicas de desenvolvimento pessoal e performance.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre mentalidade e ação)
 - Dialoga com [[O_Poder_da_Acao_Vieira|O Poder da Ação]] de Paulo Vieira sobre crenças, metas e ação.
 - Complementa [[Mindset_Dweck|Mindset]] de Carol Dweck sobre o poder das crenças nos resultados.
 - Ecoa [[Mais_Esperto_Que_o_Diabo_Hill|Mais Esperto Que o Diabo]] de Napoleon Hill sobre foco, propósito e domínio da mente.

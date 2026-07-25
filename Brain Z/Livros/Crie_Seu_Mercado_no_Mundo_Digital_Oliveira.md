@@ -2,7 +2,7 @@
 titulo: "Crie Seu Mercado no Mundo Digital"
 autor: "Bruno de Oliveira"
 ano: 2019
-categoria: marketing
+categoria: marketing-e-marca
 tags: [marketing-digital, ecommerce, empreendedorismo, vendas, nicho, negocios]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Qualquer pessoa pode construir um negócio lucrativo no ambiente digital ao esco
 - Ao estruturar vendas recorrentes e relacionamento com clientes.
 
 ## Conexões
-- [[Marketing e Marca]] (índice temático que reúne os livros sobre marketing)
 - Dialoga com [[Cientista_do_Marketing_Digital_Lippert|Cientista do Marketing Digital]] de Dener Lippert e [[Autoridade_Digital_Terra|Autoridade Digital]] de Rafael Terra sobre estratégia e execução no digital.
 - Complementa [[A_Startup_Enxuta_Ries|A Startup Enxuta]] de Eric Ries sobre testar e ajustar antes de escalar.
 - Ecoa [[Apaixone_se_pelo_Problema_Levine|Apaixone-se pelo Problema, Não pela Solução]] de Uri Levine na escolha de um problema e mercado reais.

@@ -2,7 +2,7 @@
 titulo: "A Arte da Sedução"
 autor: "Robert Greene"
 ano: 2001
-categoria: poder
+categoria: poder-e-estrategia
 tags: [seducao, poder, persuasao, influencia, psicologia, estrategia]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ A sedução é a forma mais sutil e poderosa de influência: em vez de forçar, 
 - Para pensar persuasão pela via do desejo e da emoção, e não do argumento racional.
 
 ## Conexões
-- [[Poder e Influencia]] (índice temático que reúne os livros sobre poder e persuasão)
 - Companheiro de [[33_Estrategias_de_Guerra_Greene|As 33 Estratégias da Guerra]] do próprio Robert Greene, aplicando a mesma lógica estratégica ao terreno da atração e da influência emocional.
 - Complementa [[7_Regras_do_Poder_Pfeffer|7 Regras do Poder]] de Jeffrey Pfeffer no uso deliberado de imagem e presença para obter vantagem.
 - Dialoga com [[A_Arte_de_Ler_Mentes_Fexeus|A Arte de Ler Mentes]] de Henrik Fexeus sobre ler e influenciar o outro pela leitura de sinais e emoções.

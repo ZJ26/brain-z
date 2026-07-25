@@ -44,7 +44,6 @@ A maioria das pessoas usa apenas uma fração do próprio potencial. Vencendo um
 - Como relato extremo de superação de adversidades.
 
 ## Conexões
-- [[Disciplina e Habitos]] (índice temático que reúne os livros sobre autocontrole e rotina)
 - Leva ao extremo a mesma mentalidade de [[Disciplina_e_Liberdade_Willink|Disciplina é Liberdade]] de Jocko Willink sobre vencer a mente fraca pela disciplina.
 - Ecoa [[Projeto_Proposito_Farias|Projeto Propósito]] de Hugo Farias e [[A_Trinca_Jornada_da_Liberdade_Carneiro|A Trinca: Jornada da Liberdade]] de Caio Carneiro e outros sobre superação e responsabilidade.
 - Dialoga com [[Mindset_Dweck|Mindset]] de Carol Dweck sobre superar limites que a mente impõe.

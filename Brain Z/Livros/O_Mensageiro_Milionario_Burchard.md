@@ -2,7 +2,7 @@
 titulo: "O Mensageiro Milionário"
 autor: "Brendon Burchard"
 ano: 2011
-categoria: empreendedorismo
+categoria: negocios-lideranca-e-gestao
 tags: [expert, conhecimento, negocios, marca-pessoal, proposito, influencia]
 status: nao-lido
 avaliacao: 0
@@ -46,7 +46,6 @@ Sua experiência de vida e seu conhecimento têm valor e podem se tornar um neg�
 - Quando quiser unir propósito, impacto e renda a partir da própria mensagem.
 
 ## Conexões
-- [[Proposito e Superacao]] (índice temático que reúne os livros sobre propósito e realização)
 - Complementa [[Autoridade_Digital_Terra|Autoridade Digital]] de Rafael Terra e [[Crie_Seu_Mercado_no_Mundo_Digital_Oliveira|Crie Seu Mercado no Mundo Digital]] de Bruno de Oliveira sobre construir autoridade e negócio no digital.
 - Dialoga com [[Eu_SA_Simmons|Eu, S.A.]] de Gene Simmons sobre tratar a própria carreira e marca como negócio.
 - Ecoa [[Comece_pelo_Porque_Sinek|Comece pelo Porquê]] de Simon Sinek sobre propósito e mensagem que mobilizam pessoas.

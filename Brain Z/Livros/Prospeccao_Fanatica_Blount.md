@@ -45,7 +45,6 @@ A causa número um do fracasso em vendas é um funil vazio, e a única cura é a
 - Quando as vendas oscilam por falta de novos prospects.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Do mesmo autor de [[Inteligencia_Emocional_em_Vendas_Blount|Inteligência Emocional em Vendas]] de Jeb Blount, aqui focado na disciplina de prospectar.
 - Complementa [[Receita_Previsivel_Ross|Receita Previsível]] de Aaron Ross sobre construir um pipeline previsível.
 - Dialoga com [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer e [[Os_Segredos_do_Lobo_Belfort|Os Segredos do Lobo]] de Jordan Belfort sobre processo e atitude.

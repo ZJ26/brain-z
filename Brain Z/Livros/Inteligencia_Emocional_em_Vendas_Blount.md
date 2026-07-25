@@ -46,8 +46,8 @@ Vender é, antes de tudo, uma transferência de emoção. Além da técnica e do
 - Quando a técnica sozinha não está fechando negócios.
 
 ## Conexões
-- [[Vendas]] (índice temático que reúne os livros sobre vender e atender)
 - Aplica à venda os conceitos de [[Inteligencia_Emocional_Goleman|Inteligência Emocional]] de Daniel Goleman.
 - Complementa [[A_Biblia_de_Vendas_Gitomer|A Bíblia de Vendas]] de Jeffrey Gitomer sobre atitude e relacionamento como base do resultado.
 - Dialoga com [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss sobre empatia tática e controle emocional na negociação.
 - Complementa [[As_Armas_da_Persuasao_Cialdini|As Armas da Persuasão]] de Robert Cialdini sobre os gatilhos que sustentam a decisão de compra.
+- Dialoga com [[Os_Segredos_do_Lobo_Belfort|Os Segredos do Lobo]] de Jordan Belfort sobre gerir o próprio estado emocional e o do cliente na condução da venda.

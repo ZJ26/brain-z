@@ -2,7 +2,7 @@
 titulo: "A Arte de Ler Mentes"
 autor: "Henrik Fexeus"
 ano: 2007
-categoria: comunicacao
+categoria: comunicacao-e-oratoria
 tags: [comunicacao, linguagem-corporal, persuasao, empatia, influencia, psicologia]
 status: nao-lido
 avaliacao: 0
@@ -44,7 +44,6 @@ confianca: media
 - Para reconhecer quando técnicas de sugestão e influência estão sendo usadas sobre você.
 
 ## Conexões
-- [[Comunicacao e Empatia]] (índice temático que reúne os livros sobre diálogo e leitura de pessoas)
 - Complementa [[Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss|Negocie Como Se Sua Vida Dependesse Disso]] de Chris Voss na leitura de emoções e no uso da empatia tática para influenciar.
 - Ecoa [[Como_Fazer_Amigos_e_Influenciar_Pessoas_Carnegie|Como Fazer Amigos e Influenciar Pessoas]] de Dale Carnegie na atenção genuína ao outro como base da influência.
 - Dialoga com [[A_Arte_da_Seducao_Greene|A Arte da Sedução]] de Robert Greene sobre ler o outro e conduzir a relação, ainda que com fins estratégicos.
