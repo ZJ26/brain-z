@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Merce",
+                "query": "Sedu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,11 +72,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5a73bec2c21c8dcd",
@@ -178,8 +180,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "297500841c86941e",
+  "active": "75e01cf5d294dcc6",
   "lastOpenFiles": [
+    "Avanti/00 - Sistema de Marca/Avanti_Site_Apresentacao.md",
+    "Livros/A_Arte_da_Seducao_Greene.md",
+    "Livros/As_48_Leis_do_Poder_Greene.md",
+    "Livros/33_Estrategias_de_Guerra_Greene.md",
+    "Livros/O_Livro_dos_Cinco_Aneis_Musashi.md",
+    "Avanti/00 - Sistema de Marca/06_-_Fundamento_Tom_de_Voz.md",
+    "Avanti/00 - Sistema de Marca/05_-_Fundamento_Cultura_Interna.md",
+    "Avanti/00 - Sistema de Marca/04_-_Fundamento_Descricao_Institucional.md",
+    "Avanti/00 - Sistema de Marca/02_-_Fundamento_Arquetipo_e_Posicionamento.md",
+    "Avanti/00 - Sistema de Marca/01_-_Fundamento_Essencia.md",
+    "Avanti/00 - Sistema de Marca/00_-_Fundamento_Governanca_da_Marca.md",
+    "Avanti/00 - Sistema de Marca/## - Leia-me.md",
     "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/PNG/Avanti_Talks_logo.png",
     "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/PNG/Avanti_Talks_Logo-Fundo.png",
     "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/PNG/Avanti_Talks_logo-branco.png",
@@ -200,21 +214,12 @@
     "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/task-list.svg",
     "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/strategy-tasks.svg",
     "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/search-dollar.svg",
-    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/office-worker.svg",
     "Avanti/00 - Sistema de Marca/Kit_de_Marca/ManualDaMarca.md",
-    "Avanti/00 - Sistema de Marca/Avanti_Site_Apresentacao.md",
     "Avanti/00 - Sistema de Marca/Sistema_de_Icones.md",
     "Avanti/00 - Sistema de Marca/Especificacao_de_Servico.md",
-    "Avanti/00 - Sistema de Marca/## - Leia-me.md",
     "Avanti/00 - Sistema de Marca/Regua_Operacional.md",
     "Avanti/00 - Sistema de Marca/Playbook_Comercial.md",
-    "Avanti/00 - Sistema de Marca/06_-_Fundamento_Tom_de_Voz.md",
-    "Avanti/00 - Sistema de Marca/05_-_Fundamento_Cultura_Interna.md",
-    "Avanti/00 - Sistema de Marca/04_-_Fundamento_Descricao_Institucional.md",
     "Avanti/00 - Sistema de Marca/03_-_Fundamento_Perfis_de_Publico.md",
-    "Avanti/00 - Sistema de Marca/02_-_Fundamento_Arquetipo_e_Posicionamento.md",
-    "Avanti/00 - Sistema de Marca/01_-_Fundamento_Essencia.md",
-    "Avanti/00 - Sistema de Marca/00_-_Fundamento_Governanca_da_Marca.md",
     "Avanti/00 - Sistema de Marca/Sistema_Tipografico.md",
     "Avanti/00 - Sistema de Marca/Sistema_de_Cores.md",
     "Avanti/00 - Sistema de Marca/Sistema_de_Copy.md",
@@ -222,9 +227,6 @@
     "Livros/O_Paladar_Nao_Retrocede_Ferreirinha.md",
     "Livros/O_Jeito_Disney_de_Encantar_os_Clientes_Disney.md",
     "Livros/Arrume_a_Sua_Cama_McRaven.md",
-    "Livros/UmDiaSemReclamar_Lago_Galuppo.md",
-    "Livros/As_4_Disciplinas_da_Execucao_McChesney.md",
-    "Livros/Pai_Rico_Pai_Pobre_Kiyosaki.md",
-    "Livros/O_Homem_Mais_Rico_da_Babilonia_Clason.md"
+    "Livros/UmDiaSemReclamar_Lago_Galuppo.md"
   ]
 }
