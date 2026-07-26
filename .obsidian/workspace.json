@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "5f37bb2f9ce8a8be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livros/O_Paladar_Nao_Retrocede_Ferreirinha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O_Paladar_Nao_Retrocede_Ferreirinha"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,43 +178,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f37bb2f9ce8a8be",
+  "active": "297500841c86941e",
   "lastOpenFiles": [
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/PNG/Avanti_Talks_logo.png",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/PNG/Avanti_Talks_Logo-Fundo.png",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/PNG/Avanti_Talks_logo-branco.png",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/PNG",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/SVG/Avanti_Talks_Logo-Fundo.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/SVG/Avanti_Talks_logo-branco.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/SVG/Avanti_Talks_logo.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks/SVG",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipo Avanti Talks",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Logotipos",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-SemiBoldItalic.ttf",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-SemiBold.ttf",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-Regular.ttf",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-MediumItalic.ttf",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-Medium.ttf",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-LightItalic.ttf",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/workspace-desk.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/task-list.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/strategy-tasks.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/search-dollar.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/Set_Icons/line/work-education/office-worker.svg",
+    "Avanti/00 - Sistema de Marca/Kit_de_Marca/ManualDaMarca.md",
+    "Avanti/00 - Sistema de Marca/Avanti_Site_Apresentacao.md",
+    "Avanti/00 - Sistema de Marca/Sistema_de_Icones.md",
+    "Avanti/00 - Sistema de Marca/Especificacao_de_Servico.md",
+    "Avanti/00 - Sistema de Marca/## - Leia-me.md",
+    "Avanti/00 - Sistema de Marca/Regua_Operacional.md",
+    "Avanti/00 - Sistema de Marca/Playbook_Comercial.md",
+    "Avanti/00 - Sistema de Marca/06_-_Fundamento_Tom_de_Voz.md",
+    "Avanti/00 - Sistema de Marca/05_-_Fundamento_Cultura_Interna.md",
+    "Avanti/00 - Sistema de Marca/04_-_Fundamento_Descricao_Institucional.md",
+    "Avanti/00 - Sistema de Marca/03_-_Fundamento_Perfis_de_Publico.md",
+    "Avanti/00 - Sistema de Marca/02_-_Fundamento_Arquetipo_e_Posicionamento.md",
+    "Avanti/00 - Sistema de Marca/01_-_Fundamento_Essencia.md",
+    "Avanti/00 - Sistema de Marca/00_-_Fundamento_Governanca_da_Marca.md",
+    "Avanti/00 - Sistema de Marca/Sistema_Tipografico.md",
+    "Avanti/00 - Sistema de Marca/Sistema_de_Cores.md",
+    "Avanti/00 - Sistema de Marca/Sistema_de_Copy.md",
+    "Livros/A_Vaca_Roxa_Godin.md",
+    "Livros/O_Paladar_Nao_Retrocede_Ferreirinha.md",
     "Livros/O_Jeito_Disney_de_Encantar_os_Clientes_Disney.md",
     "Livros/Arrume_a_Sua_Cama_McRaven.md",
     "Livros/UmDiaSemReclamar_Lago_Galuppo.md",
     "Livros/As_4_Disciplinas_da_Execucao_McChesney.md",
     "Livros/Pai_Rico_Pai_Pobre_Kiyosaki.md",
-    "Livros/O_Homem_Mais_Rico_da_Babilonia_Clason.md",
-    "Livros/Assim_Falou_Zaratustra_Nietzsche.md",
-    "Livros/Pequenos_Passos_para_Mudar_Sua_Vida_Maurer.md",
-    "Livros/O_Proposito_da_Sua_Vida_Losier.md",
-    "Livros/Os_Segredos_da_Mente_Milionaria_Eker.md",
-    "Livros/O_Inferno_Somos_Nos_Karnal.md",
-    "Livros/Eu_SA_Simmons.md",
-    "Livros/A_Dominacao_Masculina_Bourdieu.md",
-    "Livros/A_Arte_da_Guerra_Sun_Tzu.md",
-    "Livros/O_Livro_dos_Cinco_Aneis_Musashi.md",
-    "Livros/As_Dores_do_Mundo_Schopenhauer.md",
-    "Livros/Etica_Spinoza.md",
-    "Livros/Negocie_Como_Se_Sua_Vida_Dependesse_Disso_Voss.md",
-    "Livros/O_Dom_da_Influencia_Spaulding.md",
-    "Livros/Cliente_Feliz_Da_Lucro_Paula.md",
-    "Livros/Guiados_pelo_Encantamento_Michelli.md",
-    "Livros/A_Republica_Platao.md",
-    "Livros/A_Vaca_Roxa_Godin.md",
-    "Livros/Rapido_e_Devagar_Kahneman.md",
-    "Livros/Hooked_Eyal.md",
-    "Livros/Inteligencia_Emocional_Goleman.md",
-    "Livros/Uma_Vida_com_Propositos_Warren.md.tmp.21580.8b7252429ba3",
-    "Livros/Trabalhe_4_Horas_por_Semana_Ferriss.md.tmp.21580.18ae16e3ea3a",
-    "Livros/TED_Talks_Anderson.md.tmp.21580.fc7fd91976dd",
-    "Livros/Storytelling_com_Dados_Knaflic.md.tmp.21580.c566ac61581c",
-    "Livros/StoryBrand_Miller.md.tmp.21580.8202af9ac18d",
-    "Livros/Startup_Livingston.md.tmp.21580.921fcd12e5b9",
-    "Livros/Start_Acuff.md.tmp.21580.cbf005f72e43",
-    "Livros/Seja_Inesquecivel_Kovalick.md.tmp.21580.aa4f60319576",
-    "Livros/Seja_Foda_Carneiro.md.tmp.21580.1d55db5fbedb",
-    "Livros/Scrum_Sutherland.md.tmp.21580.e617268fc25b"
+    "Livros/O_Homem_Mais_Rico_da_Babilonia_Clason.md"
   ]
 }

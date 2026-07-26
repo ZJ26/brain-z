@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Avanti · Cores & Tipografia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg-primary:#020B1A; --bg-surface:#0A1931; --brand-deep:#002970;
+    --brand-accent:#2290FF; --bg-light:#F6F5F2;
+    --text:#F6F5F2; --hair:rgba(246,245,242,0.12);
+    --btn-radius:100px; --pad:clamp(24px,5vw,72px); --maxw:1320px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{font-family:'Plus Jakarta Sans',sans-serif;font-weight:400;background:var(--bg-primary);
+    color:var(--text);line-height:1.5;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 var(--pad)}
+  .up{text-transform:uppercase}
+
+  .topbar{display:flex;justify-content:space-between;align-items:center;padding:28px 0 22px;
+    border-bottom:0.5px solid var(--hair);font-size:11px;font-weight:500;letter-spacing:2.4px;text-transform:uppercase}
+  .topbar .dot{color:var(--brand-accent)}
+
+  .hero{padding:clamp(56px,11vw,128px) 0 clamp(40px,8vw,88px)}
+  .hero h1{font-weight:300;font-size:clamp(44px,9.4vw,108px);line-height:1.0;letter-spacing:-0.045em}
+
+  .section{padding:clamp(36px,6vw,72px) 0;border-top:0.5px solid var(--hair)}
+  .section-label{font-size:11px;font-weight:500;letter-spacing:2.4px;text-transform:uppercase;margin-bottom:34px}
+
+  /* Cores */
+  .swatch{display:grid;grid-template-columns:1.3fr 1fr 1.2fr 1.3fr;align-items:center;gap:16px;padding:26px 28px}
+  .swatch .name{font-size:18px;font-weight:500;letter-spacing:-0.3px}
+  .swatch .val{font-size:13px;font-weight:400;letter-spacing:0.2px}
+  .swatch.is-dark{color:var(--bg-light)} .swatch.is-light{color:var(--bg-primary)}
+  .sw-primary{background:var(--bg-primary);box-shadow:inset 0 0 0 0.5px var(--hair)}
+  .sw-surface{background:var(--bg-surface)} .sw-deep{background:var(--brand-deep)}
+  .sw-accent{background:var(--brand-accent)} .sw-light{background:var(--bg-light)}
+
+  /* Fonte */
+  .font-grid{display:grid;grid-template-columns:200px 1fr;gap:32px;align-items:start}
+  .font-name{font-weight:300;font-size:clamp(34px,5vw,56px);line-height:1.05;letter-spacing:-0.04em}
+  .font-desc{max-width:620px;font-weight:300;font-size:19px;line-height:1.58;letter-spacing:-0.3px;margin-top:18px}
+  .font-weights{margin-top:22px;font-size:13px;font-weight:400;letter-spacing:0.2px}
+  .font-weights b{font-weight:500}
+
+  /* Escala */
+  .ts-row{padding:34px 0;border-bottom:0.5px solid var(--hair)}
+  .ts-row:first-of-type{border-top:0.5px solid var(--hair)}
+  .ts-head{display:flex;align-items:baseline;gap:14px;margin-bottom:20px}
+  .ts-name{font-size:11px;font-weight:500;letter-spacing:2.4px;text-transform:uppercase}
+  .ts-fam{font-size:11px;font-weight:300;letter-spacing:0.4px}
+  .ts-preview{margin-bottom:24px}
+
+  .label-pill{display:inline-block;border:0.5px solid var(--hair);border-radius:100px;padding:7px 16px}
+  .list{list-style:none} .list li{position:relative;padding-left:18px}
+  .list li::before{content:"";position:absolute;left:0;top:13px;width:5px;height:5px;border-radius:50%;background:var(--brand-accent)}
+
+  .btn{display:inline-flex;align-items:center;justify-content:center;font-family:inherit;
+    padding:15px 30px;border:none;border-radius:var(--btn-radius);background:var(--brand-accent);
+    color:var(--bg-light);cursor:pointer;transition:background .18s ease}
+  .btn:hover{background:var(--brand-deep)}
+  .btn:focus-visible{outline:2px solid var(--brand-accent);outline-offset:3px}
+
+  /* Tabela de breakpoints */
+  .bp{display:grid;grid-template-columns:118px repeat(3,minmax(0,1fr));max-width:560px;
+    border:0.5px solid var(--hair);border-radius:6px;overflow:hidden}
+  .bp>div{padding:9px 14px;border-bottom:0.5px solid var(--hair);font-size:13px;font-weight:300;letter-spacing:0.1px}
+  .bp .bp-h{font-size:11px;font-weight:500;letter-spacing:1px;text-transform:uppercase}
+  .bp .bp-l{font-size:11px;font-weight:500;letter-spacing:1px;text-transform:uppercase}
+  .bp>div:nth-last-child(-n+4){border-bottom:none}
+
+  footer{padding:48px 0 64px;border-top:0.5px solid var(--hair)}
+  footer p{font-size:11px;font-weight:300;letter-spacing:0.1px}
+
+  .reveal{opacity:0;transform:translateY(14px);transition:opacity .6s ease,transform .6s ease}
+  .reveal.in{opacity:1;transform:none}
+
+  /* Estilos canônicos · Desktop */
+  .tx-display{font-weight:300;font-size:64px;line-height:66px;letter-spacing:-2.9px}
+  .tx-titulo{font-weight:500;font-size:44px;line-height:48px;letter-spacing:-1.6px}
+  .tx-titulo-2{font-weight:500;font-size:30px;line-height:36px;letter-spacing:-0.8px}
+  .tx-titulo-3{font-weight:500;font-size:22px;line-height:30px;letter-spacing:-0.4px}
+  .tx-subtitulo{font-weight:300;font-size:19px;line-height:30px;letter-spacing:-0.3px}
+  .tx-corpo{font-weight:400;font-size:16px;line-height:28px;letter-spacing:0}
+  .tx-overline{font-weight:500;font-size:11px;line-height:16px;letter-spacing:2.4px}
+  .tx-caption{font-weight:300;font-size:13px;line-height:20px;letter-spacing:0.2px}
+  .tx-label{font-weight:500;font-size:10px;line-height:14px;letter-spacing:1px}
+  .tx-footnote{font-weight:300;font-size:11px;line-height:16px;letter-spacing:0.1px}
+  .tx-quote{font-weight:300;font-style:italic;font-size:26px;line-height:34px;letter-spacing:-0.4px}
+  .tx-stat{font-weight:400;font-size:64px;line-height:64px;letter-spacing:-3.2px}
+  .tx-list{font-weight:400;font-size:16px;line-height:30px;letter-spacing:0}
+  .tx-button{font-weight:500;font-size:14px;line-height:20px;letter-spacing:0.3px}
+  .tx-leadin{font-weight:300;font-size:22px;line-height:34px;letter-spacing:-0.4px}
+  .tx-pullquote{font-weight:300;font-size:34px;line-height:42px;letter-spacing:-1.2px}
+
+  @media (max-width:1024px){
+    .tx-display{font-size:52px;line-height:54px;letter-spacing:-2.35px}
+    .tx-titulo{font-size:38px;line-height:42px;letter-spacing:-1.35px}
+    .tx-titulo-2{font-size:27px;line-height:33px;letter-spacing:-0.65px}
+    .tx-titulo-3{font-size:20px;line-height:28px;letter-spacing:-0.32px}
+    .tx-subtitulo{font-size:17px;line-height:27px;letter-spacing:-0.2px}
+    .tx-quote{font-size:22px;line-height:29px;letter-spacing:-0.3px}
+    .tx-stat{font-size:54px;line-height:54px;letter-spacing:-2.7px}
+    .tx-leadin{font-size:20px;line-height:31px;letter-spacing:-0.34px}
+    .tx-pullquote{font-size:28px;line-height:35px;letter-spacing:-0.95px}
+  }
+  @media (max-width:768px){
+    .swatch{grid-template-columns:1fr 1fr;gap:6px 16px;padding:22px 20px}
+    .swatch .name{grid-column:1 / -1;margin-bottom:6px}
+    .font-grid{grid-template-columns:1fr;gap:8px}
+    .bp{grid-template-columns:92px repeat(3,minmax(0,1fr))}
+    .bp>div{padding:8px 10px;font-size:12px}
+    .tx-display{font-size:42px;line-height:44px;letter-spacing:-1.9px}
+    .tx-titulo{font-size:32px;line-height:35px;letter-spacing:-1.1px}
+    .tx-titulo-2{font-size:24px;line-height:30px;letter-spacing:-0.5px}
+    .tx-titulo-3{font-size:19px;line-height:26px;letter-spacing:-0.25px}
+    .tx-subtitulo{font-size:16px;line-height:26px;letter-spacing:-0.15px}
+    .tx-quote{font-size:19px;line-height:26px;letter-spacing:-0.25px}
+    .tx-stat{font-size:42px;line-height:42px;letter-spacing:-2.1px}
+    .tx-list{font-size:16px;line-height:28px;letter-spacing:0}
+    .tx-leadin{font-size:18px;line-height:28px;letter-spacing:-0.28px}
+    .tx-pullquote{font-size:24px;line-height:31px;letter-spacing:-0.8px}
+  }
+  @media (prefers-reduced-motion:reduce){
+    .reveal{opacity:1;transform:none;transition:none} .btn{transition:none}
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+
+    <div class="topbar">
+      <span>Avanti <span class="dot">·</span> Sistema de Marca</span>
+      <span>desktop / tablet / mobile</span>
+    </div>
+
+    <header class="hero reveal"><h1>Cores &amp; Tipografia</h1></header>
+
+    <section class="section reveal">
+      <p class="section-label">Cores</p>
+      <div class="swatch sw-light is-light"><span class="name">BG Light</span><span class="val">#F6F5F2</span><span class="val">R 246 G 245 B 242</span><span class="val">C5 M4 Y6 K0</span></div>
+      <div class="swatch sw-accent is-dark"><span class="name">Brand Accent</span><span class="val">#2290FF</span><span class="val">R 34 G 144 B 255</span><span class="val">C74 M41 Y0 K0</span></div>
+      <div class="swatch sw-deep is-dark"><span class="name">Brand Deep</span><span class="val">#002970</span><span class="val">R 0 G 41 B 112</span><span class="val">C100 M88 Y32 K16</span></div>
+      <div class="swatch sw-surface is-dark"><span class="name">BG Surface</span><span class="val">#0A1931</span><span class="val">R 10 G 25 B 49</span><span class="val">C100 M88 Y48 K64</span></div>
+      <div class="swatch sw-primary is-dark"><span class="name">BG Primary</span><span class="val">#020B1A</span><span class="val">R 2 G 11 B 26</span><span class="val">C100 M85 Y55 K83</span></div>
+    </section>
+
+    <section class="section reveal">
+      <p class="section-label">Fonte</p>
+      <div class="font-grid">
+        <div></div>
+        <div>
+          <p class="font-name">Plus Jakarta Sans</p>
+          <p class="font-desc">Sans-serif humanista de código aberto, distribuída pelo Google Fonts. Na Avanti, entra com teto de peso 500 e tracking negativo nos tamanhos grandes. A leveza vem da escala e do espaçamento, não do peso: é assim que a tipografia carrega autoridade sem endurecer a leitura.</p>
+          <p class="font-weights"><b>Pesos em uso:</b> Light 300 · Regular 400 · Medium 500</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section reveal">
+      <p class="section-label">Escala tipográfica · 16 estilos · Desktop / Tablet / Mobile</p>
+      <div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Display</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-display">Display</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>300 Light</div><div>300 Light</div><div>300 Light</div>
+        <div class="bp-l">Tamanho</div><div>64px</div><div>52px</div><div>42px</div>
+        <div class="bp-l">Entrelinha</div><div>66px</div><div>54px</div><div>44px</div>
+        <div class="bp-l">Tracking</div><div>-2,9px</div><div>-2,35px</div><div>-1,9px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Título (H1)</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-titulo">Título</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>500 Medium</div><div>500 Medium</div><div>500 Medium</div>
+        <div class="bp-l">Tamanho</div><div>44px</div><div>38px</div><div>32px</div>
+        <div class="bp-l">Entrelinha</div><div>48px</div><div>42px</div><div>35px</div>
+        <div class="bp-l">Tracking</div><div>-1,6px</div><div>-1,35px</div><div>-1,1px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Título 2 (H2)</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-titulo-2">Título 2</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>500 Medium</div><div>500 Medium</div><div>500 Medium</div>
+        <div class="bp-l">Tamanho</div><div>30px</div><div>27px</div><div>24px</div>
+        <div class="bp-l">Entrelinha</div><div>36px</div><div>33px</div><div>30px</div>
+        <div class="bp-l">Tracking</div><div>-0,8px</div><div>-0,65px</div><div>-0,5px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Título 3 (H3)</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-titulo-3">Título 3</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>500 Medium</div><div>500 Medium</div><div>500 Medium</div>
+        <div class="bp-l">Tamanho</div><div>22px</div><div>20px</div><div>19px</div>
+        <div class="bp-l">Entrelinha</div><div>30px</div><div>28px</div><div>26px</div>
+        <div class="bp-l">Tracking</div><div>-0,4px</div><div>-0,32px</div><div>-0,25px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Subtítulo</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-subtitulo">Subtítulo</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>300 Light</div><div>300 Light</div><div>300 Light</div>
+        <div class="bp-l">Tamanho</div><div>19px</div><div>17px</div><div>16px</div>
+        <div class="bp-l">Entrelinha</div><div>30px</div><div>27px</div><div>26px</div>
+        <div class="bp-l">Tracking</div><div>-0,3px</div><div>-0,2px</div><div>-0,15px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Texto (Body)</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-corpo">Texto de leitura corrida, o corpo do conteúdo da página.</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>400 Regular</div><div>400 Regular</div><div>400 Regular</div>
+        <div class="bp-l">Tamanho</div><div>16px</div><div>16px</div><div>16px</div>
+        <div class="bp-l">Entrelinha</div><div>28px</div><div>28px</div><div>28px</div>
+        <div class="bp-l">Tracking</div><div>0</div><div>0</div><div>0</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Overline</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-overline up">OVERLINE</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>500 Medium</div><div>500 Medium</div><div>500 Medium</div>
+        <div class="bp-l">Tamanho</div><div>11px</div><div>11px</div><div>11px</div>
+        <div class="bp-l">Entrelinha</div><div>16px</div><div>16px</div><div>16px</div>
+        <div class="bp-l">Tracking</div><div>2,4px</div><div>2,4px</div><div>2,4px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Caption</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-caption">Caption · legenda de apoio e crédito de fonte</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>300 Light</div><div>300 Light</div><div>300 Light</div>
+        <div class="bp-l">Tamanho</div><div>13px</div><div>13px</div><div>13px</div>
+        <div class="bp-l">Entrelinha</div><div>20px</div><div>20px</div><div>20px</div>
+        <div class="bp-l">Tracking</div><div>0,2px</div><div>0,2px</div><div>0,2px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Label</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-label up label-pill">HOME EQUITY</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>500 Medium</div><div>500 Medium</div><div>500 Medium</div>
+        <div class="bp-l">Tamanho</div><div>10px</div><div>10px</div><div>10px</div>
+        <div class="bp-l">Entrelinha</div><div>14px</div><div>14px</div><div>14px</div>
+        <div class="bp-l">Tracking</div><div>1px</div><div>1px</div><div>1px</div>
+        <div class="bp-l">Border radius</div><div>100px</div><div>100px</div><div>100px</div>
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Footnote</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-footnote">* Footnote, nota de rodapé e observação técnica.</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>300 Light</div><div>300 Light</div><div>300 Light</div>
+        <div class="bp-l">Tamanho</div><div>11px</div><div>11px</div><div>11px</div>
+        <div class="bp-l">Entrelinha</div><div>16px</div><div>16px</div><div>16px</div>
+        <div class="bp-l">Tracking</div><div>0,1px</div><div>0,1px</div><div>0,1px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Quote</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-quote">Resolveram em trinta dias o que meu banco recusou em anos.</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>300 Italic</div><div>300 Italic</div><div>300 Italic</div>
+        <div class="bp-l">Tamanho</div><div>26px</div><div>22px</div><div>19px</div>
+        <div class="bp-l">Entrelinha</div><div>34px</div><div>29px</div><div>26px</div>
+        <div class="bp-l">Tracking</div><div>-0,4px</div><div>-0,3px</div><div>-0,25px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Stat</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-stat">R$ 500mi+</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>400 Regular</div><div>400 Regular</div><div>400 Regular</div>
+        <div class="bp-l">Tamanho</div><div>64px</div><div>54px</div><div>42px</div>
+        <div class="bp-l">Entrelinha</div><div>64px</div><div>54px</div><div>42px</div>
+        <div class="bp-l">Tracking</div><div>-3,2px</div><div>-2,7px</div><div>-2,1px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">List</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><ul class="tx-list list"><li>Leitura de cenário antes da taxa</li><li>Acesso a uma rede de instituições parceiras</li></ul></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>400 Regular</div><div>400 Regular</div><div>400 Regular</div>
+        <div class="bp-l">Tamanho</div><div>16px</div><div>16px</div><div>16px</div>
+        <div class="bp-l">Entrelinha</div><div>30px</div><div>30px</div><div>28px</div>
+        <div class="bp-l">Tracking</div><div>0</div><div>0</div><div>0</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Button</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><button class="btn tx-button">Conversar com um especialista</button></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>500 Medium</div><div>500 Medium</div><div>500 Medium</div>
+        <div class="bp-l">Tamanho</div><div>14px</div><div>14px</div><div>14px</div>
+        <div class="bp-l">Entrelinha</div><div>20px</div><div>20px</div><div>20px</div>
+        <div class="bp-l">Tracking</div><div>0,3px</div><div>0,3px</div><div>0,3px</div>
+        <div class="bp-l">Border radius</div><div>100px</div><div>100px</div><div>100px</div>
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Lead-in</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-leadin">Lead-in, a abertura do texto em peso leve e leading generoso.</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>300 Light</div><div>300 Light</div><div>300 Light</div>
+        <div class="bp-l">Tamanho</div><div>22px</div><div>20px</div><div>18px</div>
+        <div class="bp-l">Entrelinha</div><div>34px</div><div>31px</div><div>28px</div>
+        <div class="bp-l">Tracking</div><div>-0,4px</div><div>-0,34px</div><div>-0,28px</div>
+        
+      </div>
+    </div>
+<div class="ts-row">
+      <div class="ts-head"><span class="ts-name">Pull quote</span><span class="ts-fam">Plus Jakarta Sans</span></div>
+      <div class="ts-preview"><span class="tx-pullquote">O premium está no trabalho, não na pose.</span></div>
+      <div class="bp">
+        <div class="bp-h"></div><div class="bp-h">Desktop</div><div class="bp-h">Tablet</div><div class="bp-h">Mobile</div>
+        <div class="bp-l">Peso</div><div>300 Light</div><div>300 Light</div><div>300 Light</div>
+        <div class="bp-l">Tamanho</div><div>34px</div><div>28px</div><div>24px</div>
+        <div class="bp-l">Entrelinha</div><div>42px</div><div>35px</div><div>31px</div>
+        <div class="bp-l">Tracking</div><div>-1,2px</div><div>-0,95px</div><div>-0,8px</div>
+        
+      </div>
+    </div>
+    </section>
+
+    <footer><p>Sistema de Marca Avanti · Cores e Tipografia · v1.0 · Família Plus Jakarta Sans</p></footer>
+
+  </div>
+<script>
+  (function(){
+    var els=document.querySelectorAll('.reveal');
+    if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in')});return;}
+    var io=new IntersectionObserver(function(en){en.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{threshold:0.08});
+    els.forEach(function(e){io.observe(e)});
+  })();
+</script>
+</body>
+</html>
